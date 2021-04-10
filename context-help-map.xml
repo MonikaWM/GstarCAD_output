@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="wprowadzenie" path="topics/c_wprowadzenie.html"/>
+   <appContext helpID="c_instalacja" path="topics/t_instalacja.html"/>
+   <appContext helpID="c_pierwsze_kroki" path="topics/c_pierwsze_kroki.html"/>
+   <appContext helpID="c_interfejs_uzytkownika"
+               path="topics/c_interfejs_uzytkownika.html"/>
+   <appContext helpID="c_dostosowanie_programu"
+               path="topics/c_dostosowanie_programu.html"/>
+   <appContext helpID="c_edycja_rysunku" path="topics/c_edycja_rysunku.html"/>
+   <appContext helpID="t_tworzenie_rysunku" path="topics/t_tworzenie_rysunku.html"/>
+   <appContext helpID="t_otwieranie_rysunku" path="topics/t_otwieranie_rysunku.html"/>
+   <appContext helpID="t_zapis_rysunku" path="topics/t_zapis_rysunku.html"/>
+   <appContext helpID="t_przywracanie_rysunku"
+               path="topics/t_przywracanie_rysunku.html"/>
+</map>

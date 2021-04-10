@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="UTF-8"?><css:root xmlns:chfox="http://www.oxygenxml.com/chemistry/extensions/fop" xmlns:css="http://www.w3.org/1998/CSS" xmlns:ditaarch="ditaarch" xmlns:nd="nd"><css:pages><css:page><css:footnote><css:property name="border-top-style" value="solid"/><css:property name="border-top-color" value="black"/><css:property name="border-top-width" value="thin"/><css:property name="padding-top" value="8pt"/></css:footnote></css:page><css:page><css:property name="padding-top" value="0.2em"/><css:property name="padding-bottom" value="0.2em"/><css:property name="width" value="8.5in"/><css:property name="height" value="11.0in"/><css:property name="margin-top" value="1in"/><css:property name="margin-right" value="1in"/><css:property name="margin-left" value="1in"/><css:property name="margin-bottom" value="1in"/></css:page><css:page><css:property name="font-size" value="8pt"/></css:page><css:page pseudo="left "><css:top-left><css:property name="content"><css:string name="maptitle" position="first"/><css:string name="parttitle" position="first"/><css:string name="chaptertitle" position="first"/><css:string name="sectiontitle" position="first"/><css:text> | </css:text><css:counter format="decimal" name="page"/></css:property></css:top-left></css:page><css:page pseudo="right "><css:top-right><css:property name="content"><css:string name="maptitle" position="first"/><css:string name="parttitle" position="first"/><css:string name="chaptertitle" position="first"/><css:string name="sectiontitle" position="first"/><css:text> | </css:text><css:counter format="decimal" name="page"/></css:property></css:top-right></css:page><css:page pseudo="left "><css:property name="font-size" value="10pt"/><css:property name="font-family" value="Roboto , sans-serif"/></css:page><css:page pseudo="right "><css:property name="font-size" value="10pt"/><css:property name="font-family" value="Roboto , sans-serif"/></css:page><css:page pseudo="blank "><css:top-left><css:property name="content"/></css:top-left><css:top-right><css:property name="content"/></css:top-right></css:page><css:page name="front-page"><css:top-left-corner><css:property name="content"/></css:top-left-corner><css:top-left><css:property name="content"/></css:top-left><css:top-center><css:property name="content"/></css:top-center><css:top-right><css:property name="content"/></css:top-right><css:top-right-corner><css:property name="content"/></css:top-right-corner><css:bottom-left-corner><css:property name="content"/></css:bottom-left-corner><css:bottom-left><css:property name="content"/></css:bottom-left><css:bottom-center><css:property name="content"/></css:bottom-center><css:bottom-right><css:property name="content"/></css:bottom-right><css:bottom-right-corner><css:property name="content"/></css:bottom-right-corner></css:page><css:page name="table-of-contents"><css:top-left><css:property name="content"/></css:top-left><css:top-center><css:property name="content"/></css:top-center><css:top-right><css:property name="content"/></css:top-right><css:bottom-left><css:property name="content"/></css:bottom-left><css:bottom-center><css:property name="content"/></css:bottom-center><css:bottom-right><css:property name="content"/></css:bottom-right></css:page><css:page name="index"><css:top-left-corner><css:property name="content"/></css:top-left-corner><css:top-left><css:property name="content"/></css:top-left><css:top-right><css:property name="content"/></css:top-right><css:top-right-corner><css:property name="content"/></css:top-right-corner><css:top-center><css:property name="content"/></css:top-center><css:bottom-left-corner><css:property name="content"/></css:bottom-left-corner><css:bottom-left><css:property name="content"/></css:bottom-left><css:bottom-right><css:property name="content"/></css:bottom-right><css:bottom-right-corner><css:property name="content"/></css:bottom-right-corner><css:bottom-center><css:property name="content"><css:counter format="lower-alpha" name="page"/></css:property><css:property name="font-size" value="11pt"/></css:bottom-center></css:page><css:page name="index"><css:property name="column-count" value="2"/><css:property name="column-fill" value="auto"/></css:page><css:page name="chapter"/><css:page name="matter-page"><css:top-left-corner><css:property name="content"/></css:top-left-corner><css:top-left><css:property name="content"/></css:top-left><css:top-center><css:property name="content"/></css:top-center><css:top-right><css:property name="content"/></css:top-right><css:top-right-corner><css:property name="content"/></css:top-right-corner><css:bottom-left-corner><css:property name="content"/></css:bottom-left-corner><css:bottom-left><css:property name="content"/></css:bottom-left><css:bottom-center><css:property name="content"/></css:bottom-center><css:bottom-right><css:property name="content"/></css:bottom-right><css:bottom-right-corner><css:property name="content"/></css:bottom-right-corner></css:page><css:page name="portrait-page"><css:property name="orientation" value="portrait"/></css:page><css:page name="front-page"><css:property name="background-image" value="url('file:/C:/Program%20Files/Oxygen%20XML%20Editor%2023/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/oxygen-cover.svg')"/><css:property name="background-position" value="0% 0%"/><css:property name="background-repeat" value="no-repeat"/><css:property name="background-color" value="rgb(56 , 111 , 218)"/></css:page><css:page name="table-of-contents" pseudo="left "><css:top-left><css:property name="content"><css:string name="toc-header" position="first"/><css:text> | </css:text><css:counter format="lower-roman" name="page"/></css:property></css:top-left></css:page><css:page name="table-of-contents" pseudo="right "><css:top-right><css:property name="content"><css:string name="toc-header" position="first"/><css:text> | </css:text><css:counter format="lower-roman" name="page"/></css:property></css:top-right></css:page><css:page name="landscape-page" pseudo="right "><css:property name="orientation" value="landscape"/><css:top-left><css:property name="content"/></css:top-left><css:top-center><css:property name="content"/></css:top-center><css:top-right><css:property name="content"/></css:top-right><css:right-bottom><css:property name="content"><css:reference-orientation-container-pmb reference-orientation="270"><css:string name="maptitle" position="first"/><css:string name="parttitle" position="first"/><css:string name="chaptertitle" position="first"/><css:string name="sectiontitle" position="first"/><css:text> | </css:text><css:counter format="decimal" name="page"/></css:reference-orientation-container-pmb></css:property><css:property name="vertical-align" value="middle"/><css:property name="text-align" value="right"/></css:right-bottom></css:page><css:page name="landscape-page" pseudo="left "><css:property name="orientation" value="landscape"/><css:top-left><css:property name="content"/></css:top-left><css:top-center><css:property name="content"/></css:top-center><css:top-right><css:property name="content"/></css:top-right><css:right-top><css:property name="content"><css:reference-orientation-container-pmb reference-orientation="270"><css:string name="maptitle" position="first"/><css:string name="parttitle" position="first"/><css:string name="chaptertitle" position="first"/><css:string name="sectiontitle" position="first"/><css:text> | </css:text><css:counter format="decimal" name="page"/></css:reference-orientation-container-pmb></css:property><css:property name="vertical-align" value="middle"/><css:property name="text-align" value="left"/></css:right-top></css:page><css:page name="table-of-contents" pseudo="left "><css:property name="font-size" value="10pt"/><css:property name="font-family" value="Roboto , sans-serif"/></css:page><css:page name="table-of-contents" pseudo="right "><css:property name="font-size" value="10pt"/><css:property name="font-family" value="Roboto , sans-serif"/></css:page><css:page name="chapter" pseudo="left "><css:property name="font-size" value="10pt"/><css:property name="font-family" value="Roboto , sans-serif"/></css:page><css:page name="chapter" pseudo="right "><css:property name="font-size" value="10pt"/><css:property name="font-family" value="Roboto , sans-serif"/></css:page><css:page name="table-of-contents" pseudo="first left "><css:top-left><css:property name="content"/></css:top-left></css:page><css:page name="table-of-contents" pseudo="first right "><css:top-right><css:property name="content"/></css:top-right></css:page><css:page name="chapter" pseudo="first left "><css:top-left><css:property name="content"/></css:top-left></css:page><css:page name="chapter" pseudo="first right "><css:top-right><css:property name="content"/></css:top-right></css:page></css:pages><css:page-sequence initial-page-number="1" page="front-page"><html css:counter-reset=" page 1" css:display="block" css:font-family="serif" css:font-size="12px" css:min-width="100%" lang="en" xtrf="file:/C:/!%20Monika/studia/GIT/DITA%20project/GstarCAD_Project_Oxygen/GstarCAD_instrukcja.ditamap">
+    <head css:border-bottom-color="white" css:border-bottom-style="solid" css:border-bottom-width="1pt" css:border-left-color="white" css:border-left-style="solid" css:border-left-width="1pt" css:border-right-color="white" css:border-right-style="solid" css:border-right-width="1pt" css:border-top-color="white" css:border-top-style="solid" css:border-top-width="1pt" css:display="none" css:padding-bottom="1em" css:padding-left="1em" css:padding-right="1em" css:padding-top="1em">
+        <meta charset="UTF-8" css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px"/>
+        <link css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:link="file:/C:/Program Files/Oxygen XML Editor 23/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" href="file:/C:/Program Files/Oxygen XML Editor 23/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css" rel="stylesheet" type="text/css"/>
+        <link css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:link="file:/C:/Program Files/Oxygen XML Editor 23/frameworks/dita/css/print/p-dita.css" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" href="file:/C:/Program Files/Oxygen XML Editor 23/frameworks/dita/css/print/p-dita.css" rel="stylesheet" type="text/css"/>
+        <link css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:link="file:/C:/Program Files/Oxygen XML Editor 23/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.editlink/pdf-css.css" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" href="file:/C:/Program Files/Oxygen XML Editor 23/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.editlink/pdf-css.css" rel="stylesheet" type="text/css"/>
+        <link css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:link="file:/C:/Program%20Files/Oxygen%20XML%20Editor%2023/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/oxygen-with-colors.css" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" href="file:/C:/Program%20Files/Oxygen%20XML%20Editor%2023/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/oxygen-with-colors.css" rel="stylesheet" type="text/css"/>
+        <link css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:link="file:/C:/Program%20Files/Oxygen%20XML%20Editor%2023/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/notes.css" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" href="file:/C:/Program%20Files/Oxygen%20XML%20Editor%2023/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/notes.css" rel="stylesheet" type="text/css"/>
+        <meta content="DITA-OT" css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" name="generator"/>
+        <meta content="map" css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" name="DC.type"/>
+        <meta content="HTML5" css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" name="DC.format"/>
+        <meta content="en" css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" name="DC.language"/>
+        <title css:border-bottom-color="rgb(0 , 68 , 119)" css:border-bottom-style="solid" css:border-bottom-width="2px" css:color="rgb(0 , 34 , 68)" css:display="none" css:font-size="2.2em" css:font-weight="bold" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">GstarCAD instrukcja</title>
+    </head>
+    <body class="wh_topic_page" css:display="block" css:font-family="Roboto, sans-serif" css:font-size="10pt" css:margin-left="auto" css:margin-right="auto" css:min-width="100%">
+        <div class="wh_content_area" css:color="rgb(0 , 0 , 0)" css:display="block" css:line-height="1.7em" css:margin-bottom="80px">
+            <div class="wh_topic_body" css:display="block">
+                <div class="wh_topic_content" css:display="block" css:margin-bottom="80px">
+                    <div xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" cascade="merge" class="- map/map map" css:counter-reset=" toc-chapter 0 chapter 0 figcount 0 tablecount 0" css:display="block" ditaarch:ditaarchversion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" lang="en" specializations="@props/deliveryTarget" xml:lang="en"><css:string-set name="toc-header"><css:text>Contents</css:text></css:string-set><div class="- front-page/front-page front-page" css:display="block"><css:before css:display="block" css:height="0.1px"><css:text/></css:before><div class="- map/topicmeta topicmeta" css:border-bottom-color="transparent" css:border-bottom-style="none" css:border-left-color="transparent" css:border-left-style="none" css:border-right-color="transparent" css:border-right-style="none" css:border-top-color="transparent" css:border-top-style="none" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:padding-bottom="0" css:padding-left="0" css:padding-right="0" css:padding-top="0"><css:before css:display="inline"/>
+                                <div class="- topic/author author" css:display="none"><css:oxy-pdf-meta-author><css:content source="text"/></css:oxy-pdf-meta-author>Monika
+                                    Wilczyńska-Mitura</div>
+                                <div class="- topic/copyright copyright" css:display="none">
+                                    <div class="- topic/copyryear copyryear" css:display="none" year="2021"/>
+                                    <div class="- topic/copyrholder copyrholder" css:display="none"/>
+                                </div>
+                                <div class="- topic/critdates critdates" css:display="none">
+                                    <div class="- topic/created created" css:display="none" date="2021-03-26"><css:oxy-pdf-meta-custom name="Created"><css:text>2021-03-26</css:text></css:oxy-pdf-meta-custom></div>
+                                </div>
+                            </div><div class="- front-page/front-page-title front-page-title" css:color="white" css:display="block" css:font-size="2.5em" css:font-weight="bold" css:line-height="1.3em" css:margin-top="3in" css:padding-top="3em" css:text-align="center">
+                                <div class="- topic/title title" css:bookmark-level="1" css:display="block" css:page-break-after="avoid"><css:string-set name="maptitle"><css:content source="text"/></css:string-set><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><css:oxy-pdf-meta-title><css:content source="text"/></css:oxy-pdf-meta-title>GstarCAD
+                                    instrukcja</div>
+                            </div></div></div></div></div></div></body></html></css:page-sequence><css:page-sequence page="table-of-contents"><html css:counter-reset=" page 1" css:display="block" css:font-family="serif" css:font-size="12px" css:min-width="100%" lang="en" xtrf="file:/C:/!%20Monika/studia/GIT/DITA%20project/GstarCAD_Project_Oxygen/GstarCAD_instrukcja.ditamap"><body class="wh_topic_page" css:display="block" css:font-family="Roboto, sans-serif" css:font-size="10pt" css:margin-left="auto" css:margin-right="auto" css:min-width="100%"><div class="wh_content_area" css:color="rgb(0 , 0 , 0)" css:display="block" css:line-height="1.7em" css:margin-bottom="80px"><div class="wh_topic_body" css:display="block"><div class="wh_topic_content" css:display="block" css:margin-bottom="80px"><div xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" cascade="merge" class="- map/map map" css:counter-reset=" toc-chapter 0 chapter 0 figcount 0 tablecount 0" css:display="block" ditaarch:ditaarchversion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" lang="en" specializations="@props/deliveryTarget" xml:lang="en"><div class="- toc/toc toc" css:display="block">
+                            <div class="- toc/title title" css:bookmark-level="1" css:color="rgb(7 , 55 , 99)" css:display="block" css:font-size="2em" css:margin-bottom="1em" empty="true"><css:before css:display="inline"><css:text>Contents</css:text></css:before><css:bookmark-label><css:content source="before"/></css:bookmark-label></div>
+                            <div class="- topic/title title" css:display="none" css:page-break-after="avoid">GstarCAD instrukcja</div>
+                            <div class="- map/topicref topicref" css:display="block" css:font-weight="bold" css:margin-bottom="0.5em" css:margin-left="0" css:margin-top="0.5em" href="#unique_1" is-chapter="true" type="topic">
+                                <div class="- map/topicmeta topicmeta" css:border-bottom-color="transparent" css:border-bottom-style="none" css:border-left-color="transparent" css:border-left-style="none" css:border-right-color="transparent" css:border-right-style="none" css:border-top-color="transparent" css:border-top-style="none" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:padding-bottom="0" css:padding-left="0" css:padding-right="0" css:padding-top="0" data-topic-id="wprowadzenie">
+                                    <css:before css:display="inline"/>
+                                    <div appid="wprowadzenie" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                    <div class="- topic/navtitle navtitle" css:color="rgb(7 , 55 , 99)" css:display="block" css:link="#unique_1" css:text-align-last="justify" href="#unique_1"><css:before css:display="inline" css:link="#unique_1"><css:text>Chapter </css:text><css:counter name="toc-chapter" value="1"/><css:text/><css:text>. </css:text></css:before>Wprowadzenie<css:after css:display="inline" css:link="#unique_1"><css:leader pattern="."/><css:target-counter url-fragment="unique_1"/></css:after></div>
+                                    <div class="- topic/author author" css:display="none">Monika
+                                        Wilczyńska-Mitura</div>
+                                    <div class="- topic/copyright copyright" css:display="none">
+                                        <div class="- topic/copyryear copyryear" css:display="none" year="2021"/>
+                                        <div class="- topic/copyrholder copyrholder" css:display="none"/>
+                                    </div>
+                                    <div class="- topic/critdates critdates" css:display="none">
+                                        <div class="- topic/created created" css:display="none" date="2021-03-26"/>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="- map/topicref topicref" css:display="block" css:font-weight="bold" css:margin-bottom="0.5em" css:margin-left="0" css:margin-top="0.5em" href="#unique_2" is-chapter="true" type="topic">
+                                <div class="- map/topicmeta topicmeta" css:border-bottom-color="transparent" css:border-bottom-style="none" css:border-left-color="transparent" css:border-left-style="none" css:border-right-color="transparent" css:border-right-style="none" css:border-top-color="transparent" css:border-top-style="none" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:padding-bottom="0" css:padding-left="0" css:padding-right="0" css:padding-top="0" data-topic-id="c_instalacja">
+                                    <css:before css:display="inline"/>
+                                    <div appid="c_instalacja" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                    <div class="- topic/navtitle navtitle" css:color="rgb(7 , 55 , 99)" css:display="block" css:link="#unique_2" css:text-align-last="justify" href="#unique_2"><css:before css:display="inline" css:link="#unique_2"><css:text>Chapter </css:text><css:counter name="toc-chapter" value="2"/><css:text/><css:text>. </css:text></css:before>Instalacja<css:after css:display="inline" css:link="#unique_2"><css:leader pattern="."/><css:target-counter url-fragment="unique_2"/></css:after></div>
+                                    <div class="- topic/author author" css:display="none">Monika
+                                        Wilczyńska-Mitura</div>
+                                    <div class="- topic/copyright copyright" css:display="none">
+                                        <div class="- topic/copyryear copyryear" css:display="none" year="2021"/>
+                                        <div class="- topic/copyrholder copyrholder" css:display="none"/>
+                                    </div>
+                                    <div class="- topic/critdates critdates" css:display="none">
+                                        <div class="- topic/created created" css:display="none" date="2021-03-26"/>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="- map/topicref topicref" css:display="block" css:font-weight="bold" css:margin-bottom="0.5em" css:margin-left="0" css:margin-top="0.5em" href="#unique_3" is-chapter="true" type="topic">
+                                <div class="- map/topicmeta topicmeta" css:border-bottom-color="transparent" css:border-bottom-style="none" css:border-left-color="transparent" css:border-left-style="none" css:border-right-color="transparent" css:border-right-style="none" css:border-top-color="transparent" css:border-top-style="none" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:padding-bottom="0" css:padding-left="0" css:padding-right="0" css:padding-top="0" data-topic-id="c_pierwsze_kroki">
+                                    <css:before css:display="inline"/>
+                                    <div appid="c_pierwsze_kroki" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                    <div class="- topic/navtitle navtitle" css:color="rgb(7 , 55 , 99)" css:display="block" css:link="#unique_3" css:text-align-last="justify" href="#unique_3"><css:before css:display="inline" css:link="#unique_3"><css:text>Chapter </css:text><css:counter name="toc-chapter" value="3"/><css:text/><css:text>. </css:text></css:before>Pierwsze
+                                        kroki<css:after css:display="inline" css:link="#unique_3"><css:leader pattern="."/><css:target-counter url-fragment="unique_3"/></css:after></div>
+                                    <div class="- topic/author author" css:display="none">Monika
+                                        Wilczyńska-Mitura</div>
+                                    <div class="- topic/copyright copyright" css:display="none">
+                                        <div class="- topic/copyryear copyryear" css:display="none" year="2021"/>
+                                        <div class="- topic/copyrholder copyrholder" css:display="none"/>
+                                    </div>
+                                    <div class="- topic/critdates critdates" css:display="none">
+                                        <div class="- topic/created created" css:display="none" date="2021-03-26"/>
+                                    </div>
+                                </div>
+                                <div class="- map/topicref topicref" css:display="block" css:font-weight="normal" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_4" type="topic">
+                                    <div class="- map/topicmeta topicmeta" css:border-bottom-color="transparent" css:border-bottom-style="none" css:border-left-color="transparent" css:border-left-style="none" css:border-right-color="transparent" css:border-right-style="none" css:border-top-color="transparent" css:border-top-style="none" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:padding-bottom="0" css:padding-left="0" css:padding-right="0" css:padding-top="0" data-topic-id="c_interfejs_uzytkownika">
+                                        <css:before css:display="inline"/>
+                                        <div appid="c_interfejs_uzytkownika" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                        <div class="- topic/navtitle navtitle" css:color="rgb(7 , 55 , 99)" css:display="block" css:link="#unique_4" css:text-align-last="justify" href="#unique_4"><css:before css:display="inline" css:link="#unique_4"/>Interfejs
+                                            użytkownika<css:after css:display="inline" css:link="#unique_4"><css:leader pattern="."/><css:target-counter url-fragment="unique_4"/></css:after></div>
+                                        <div class="- topic/author author" css:display="none">Monika
+                                            Wilczyńska-Mitura</div>
+                                        <div class="- topic/copyright copyright" css:display="none">
+                                            <div class="- topic/copyryear copyryear" css:display="none" year="2021"/>
+                                            <div class="- topic/copyrholder copyrholder" css:display="none"/>
+                                        </div>
+                                        <div class="- topic/critdates critdates" css:display="none">
+                                            <div class="- topic/created created" css:display="none" date="2021-03-26"/>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="- map/topicref topicref" css:display="block" css:font-weight="normal" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_5" type="topic">
+                                    <div class="- map/topicmeta topicmeta" css:border-bottom-color="transparent" css:border-bottom-style="none" css:border-left-color="transparent" css:border-left-style="none" css:border-right-color="transparent" css:border-right-style="none" css:border-top-color="transparent" css:border-top-style="none" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:padding-bottom="0" css:padding-left="0" css:padding-right="0" css:padding-top="0" data-topic-id="c_dostosowanie_programu">
+                                        <css:before css:display="inline"/>
+                                        <div appid="c_dostosowanie_programu" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                        <div class="- topic/navtitle navtitle" css:color="rgb(7 , 55 , 99)" css:display="block" css:link="#unique_5" css:text-align-last="justify" href="#unique_5"><css:before css:display="inline" css:link="#unique_5"/>Dostosowanie
+                                            programu<css:after css:display="inline" css:link="#unique_5"><css:leader pattern="."/><css:target-counter url-fragment="unique_5"/></css:after></div>
+                                        <div class="- topic/author author" css:display="none">Monika
+                                            Wilczyńska-Mitura</div>
+                                        <div class="- topic/copyright copyright" css:display="none">
+                                            <div class="- topic/copyryear copyryear" css:display="none" year="2021"/>
+                                            <div class="- topic/copyrholder copyrholder" css:display="none"/>
+                                        </div>
+                                        <div class="- topic/critdates critdates" css:display="none">
+                                            <div class="- topic/created created" css:display="none" date="2021-03-26"/>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="- map/topicref topicref" css:display="block" css:font-weight="bold" css:margin-bottom="0.5em" css:margin-left="0" css:margin-top="0.5em" href="#unique_6" is-chapter="true" type="topic">
+                                <div class="- map/topicmeta topicmeta" css:border-bottom-color="transparent" css:border-bottom-style="none" css:border-left-color="transparent" css:border-left-style="none" css:border-right-color="transparent" css:border-right-style="none" css:border-top-color="transparent" css:border-top-style="none" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:padding-bottom="0" css:padding-left="0" css:padding-right="0" css:padding-top="0" data-topic-id="c_edycja_rysunku">
+                                    <css:before css:display="inline"/>
+                                    <div appid="c_edycja_rysunku" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                    <div class="- topic/navtitle navtitle" css:color="rgb(7 , 55 , 99)" css:display="block" css:link="#unique_6" css:text-align-last="justify" href="#unique_6"><css:before css:display="inline" css:link="#unique_6"><css:text>Chapter </css:text><css:counter name="toc-chapter" value="4"/><css:text/><css:text>. </css:text></css:before>Edycja
+                                        rysunku<css:after css:display="inline" css:link="#unique_6"><css:leader pattern="."/><css:target-counter url-fragment="unique_6"/></css:after></div>
+                                    <div class="- topic/author author" css:display="none">Monika
+                                        Wilczyńska-Mitura</div>
+                                    <div class="- topic/copyright copyright" css:display="none">
+                                        <div class="- topic/copyryear copyryear" css:display="none" year="2021"/>
+                                        <div class="- topic/copyrholder copyrholder" css:display="none"/>
+                                    </div>
+                                    <div class="- topic/critdates critdates" css:display="none">
+                                        <div class="- topic/created created" css:display="none" date="2021-03-26"/>
+                                    </div>
+                                </div>
+                                <div class="- map/topicref topicref" css:display="block" css:font-weight="normal" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_7" type="topic">
+                                    <div class="- map/topicmeta topicmeta" css:border-bottom-color="transparent" css:border-bottom-style="none" css:border-left-color="transparent" css:border-left-style="none" css:border-right-color="transparent" css:border-right-style="none" css:border-top-color="transparent" css:border-top-style="none" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:padding-bottom="0" css:padding-left="0" css:padding-right="0" css:padding-top="0" data-topic-id="t_tworzenie_rysunku">
+                                        <css:before css:display="inline"/>
+                                        <div appid="t_tworzenie_rysunku" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                        <div class="- topic/navtitle navtitle" css:color="rgb(7 , 55 , 99)" css:display="block" css:link="#unique_7" css:text-align-last="justify" href="#unique_7"><css:before css:display="inline" css:link="#unique_7"/>Tworzenie
+                                            rysunku<css:after css:display="inline" css:link="#unique_7"><css:leader pattern="."/><css:target-counter url-fragment="unique_7"/></css:after></div>
+                                        <div class="- topic/author author" css:display="none">Monika
+                                            Wilczyńska-Mitura</div>
+                                        <div class="- topic/copyright copyright" css:display="none">
+                                            <div class="- topic/copyryear copyryear" css:display="none" year="2021"/>
+                                            <div class="- topic/copyrholder copyrholder" css:display="none"/>
+                                        </div>
+                                        <div class="- topic/critdates critdates" css:display="none">
+                                            <div class="- topic/created created" css:display="none" date="2021-03-26"/>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="- map/topicref topicref" css:display="block" css:font-weight="normal" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_8" type="topic">
+                                    <div class="- map/topicmeta topicmeta" css:border-bottom-color="transparent" css:border-bottom-style="none" css:border-left-color="transparent" css:border-left-style="none" css:border-right-color="transparent" css:border-right-style="none" css:border-top-color="transparent" css:border-top-style="none" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:padding-bottom="0" css:padding-left="0" css:padding-right="0" css:padding-top="0" data-topic-id="t_otwieranie_rysunku">
+                                        <css:before css:display="inline"/>
+                                        <div appid="t_otwieranie_rysunku" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                        <div class="- topic/navtitle navtitle" css:color="rgb(7 , 55 , 99)" css:display="block" css:link="#unique_8" css:text-align-last="justify" href="#unique_8"><css:before css:display="inline" css:link="#unique_8"/>Otwieranie
+                                            rysunku<css:after css:display="inline" css:link="#unique_8"><css:leader pattern="."/><css:target-counter url-fragment="unique_8"/></css:after></div>
+                                        <div class="- topic/author author" css:display="none">Monika
+                                            Wilczyńska-Mitura</div>
+                                        <div class="- topic/copyright copyright" css:display="none">
+                                            <div class="- topic/copyryear copyryear" css:display="none" year="2021"/>
+                                            <div class="- topic/copyrholder copyrholder" css:display="none"/>
+                                        </div>
+                                        <div class="- topic/critdates critdates" css:display="none">
+                                            <div class="- topic/created created" css:display="none" date="2021-03-26"/>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="- map/topicref topicref" css:display="block" css:font-weight="normal" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_9" type="topic">
+                                    <div class="- map/topicmeta topicmeta" css:border-bottom-color="transparent" css:border-bottom-style="none" css:border-left-color="transparent" css:border-left-style="none" css:border-right-color="transparent" css:border-right-style="none" css:border-top-color="transparent" css:border-top-style="none" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:padding-bottom="0" css:padding-left="0" css:padding-right="0" css:padding-top="0" data-topic-id="t_zapis_rysunku">
+                                        <css:before css:display="inline"/>
+                                        <div appid="t_zapis_rysunku" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                        <div class="- topic/navtitle navtitle" css:color="rgb(7 , 55 , 99)" css:display="block" css:link="#unique_9" css:text-align-last="justify" href="#unique_9"><css:before css:display="inline" css:link="#unique_9"/>Zapis
+                                            rysunku<css:after css:display="inline" css:link="#unique_9"><css:leader pattern="."/><css:target-counter url-fragment="unique_9"/></css:after></div>
+                                        <div class="- topic/author author" css:display="none">Monika
+                                            Wilczyńska-Mitura</div>
+                                        <div class="- topic/copyright copyright" css:display="none">
+                                            <div class="- topic/copyryear copyryear" css:display="none" year="2021"/>
+                                            <div class="- topic/copyrholder copyrholder" css:display="none"/>
+                                        </div>
+                                        <div class="- topic/critdates critdates" css:display="none">
+                                            <div class="- topic/created created" css:display="none" date="2021-03-26"/>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="- map/topicref topicref" css:display="block" css:font-weight="normal" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_10" type="topic">
+                                    <div class="- map/topicmeta topicmeta" css:border-bottom-color="transparent" css:border-bottom-style="none" css:border-left-color="transparent" css:border-left-style="none" css:border-right-color="transparent" css:border-right-style="none" css:border-top-color="transparent" css:border-top-style="none" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:padding-bottom="0" css:padding-left="0" css:padding-right="0" css:padding-top="0" data-topic-id="t_przywracanie_rysunku">
+                                        <css:before css:display="inline"/>
+                                        <div appid="t_przywracanie_rysunku" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                        <div class="- topic/navtitle navtitle" css:color="rgb(7 , 55 , 99)" css:display="block" css:link="#unique_10" css:text-align-last="justify" href="#unique_10"><css:before css:display="inline" css:link="#unique_10"/>Przywracanie
+                                            rysunku<css:after css:display="inline" css:link="#unique_10"><css:leader pattern="."/><css:target-counter url-fragment="unique_10"/></css:after></div>
+                                        <div class="- topic/author author" css:display="none">Monika
+                                            Wilczyńska-Mitura</div>
+                                        <div class="- topic/copyright copyright" css:display="none">
+                                            <div class="- topic/copyryear copyryear" css:display="none" year="2021"/>
+                                            <div class="- topic/copyrholder copyrholder" css:display="none"/>
+                                        </div>
+                                        <div class="- topic/critdates critdates" css:display="none">
+                                            <div class="- topic/created created" css:display="none" date="2021-03-26"/>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div></div></div></div></div></body></html></css:page-sequence><css:page-sequence xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" initial-page-number="1" page="chapter"><html css:counter-reset=" page 1" css:display="block" css:font-family="serif" css:font-size="12px" css:min-width="100%" lang="en" xtrf="file:/C:/!%20Monika/studia/GIT/DITA%20project/GstarCAD_Project_Oxygen/GstarCAD_instrukcja.ditamap"><body class="wh_topic_page" css:display="block" css:font-family="Roboto, sans-serif" css:font-size="10pt" css:margin-left="auto" css:margin-right="auto" css:min-width="100%"><div class="wh_content_area" css:color="rgb(0 , 0 , 0)" css:display="block" css:line-height="1.7em" css:margin-bottom="80px"><div class="wh_topic_body" css:display="block"><div class="wh_topic_content" css:display="block" css:margin-bottom="80px"><div xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" cascade="merge" class="- map/map map" css:counter-reset=" toc-chapter 0 chapter 0 figcount 0 tablecount 0" css:display="block" ditaarch:ditaarchversion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" lang="en" specializations="@props/deliveryTarget" xml:lang="en"><article aria-labelledby="ariaid-title1" break-before="true" class="- topic/topic topic nested0" css:counter-reset="page 1" css:display="block" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_1" is-chapter="true" nd:nd-id="wprowadzenie" oid="wprowadzenie" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                            <h1 class="- topic/title title topictitle1" css:bookmark-level="1" css:color="rgb(7 , 55 , 99)" css:display="block" css:font-size="2em" css:line-height="1.1em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:oxy-pdf-tag-type="H1" css:page-break-after="avoid" id="ariaid-title1"><css:string-set name="chaptertitle-no-prefix"><css:text> </css:text><css:counter name="chapter" value="1"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:string-set name="chaptertitle"><css:text> | </css:text><css:counter name="chapter" value="1"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:before css:display="inline"><css:text>Chapter </css:text><css:counter name="chapter" value="1"/><css:text/><css:text>. </css:text></css:before><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Wprowadzenie</span></h1>
+                            <div class="- topic/prolog prolog" css:background-color="transparent" css:border-bottom-style="none" css:border-left-style="none" css:border-right-style="none" css:border-top-style="none" css:color="transparent" css:display="none" css:font-size="0" css:height="0" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:padding-bottom="0" css:padding-left="0" css:padding-right="0" css:padding-top="0" css:width="0">
+                                <div class="- topic/author author" css:display="none">Monika
+                                    Wilczyńska-Mitura</div>
+                                <div class="- topic/copyright copyright" css:display="none">
+                                    <div class="- topic/copyryear copyryear" css:display="none" year="2021"/>
+                                    <div class="- topic/copyrholder copyrholder" css:display="none"/>
+                                </div>
+                                <div class="- topic/critdates critdates" css:display="none">
+                                    <div class="- topic/created created" css:display="none" date="2021-03-26"/>
+                                </div>
+                            </div>
+                            <div class="- topic/body body" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Program GstarCAD 8 jest zupełnie nową platformą CAD, stworzoną
+                                    z myślą o potrzebach wymagających użytkowników. Program został
+                                    napisany w oparciu o zupełnie nowy, sprawnie funkcjonujący
+                                    silnik, wspierający wiele innowacyjnych technologii, co
+                                    przekłada się bezpośrednio na niemal 5 krotny wzrost szybkości
+                                    wykonywania operacji graficznych, poprawę wydajności oraz
+                                    znacznie mniejsze obciążenie pamięci niż miało to miejsce w
+                                    poprzednich wersjach. Nowa budowa kodu programu znacząco
+                                    wpłynęła również na stabilność wykonywanych operacji. Czyni to z
+                                    programu GstarCAD 8 narzędzie godzące wydajność i dużą szybkość
+                                    działania z wykonywaniem wielu skomplikowanych operacji na
+                                    dużych rysunkach, co wyróżnia stabilność jego pracy na tle
+                                    innych rozwiązań typu CAD. Ten dział poświęcony jest rozpoczęciu
+                                    pracy z programem GstarCAD 8, wyjaśnia proces instalacji oraz
+                                    dostarcza podstawowe informacje na temat użytkowania
+                                    programu.</p>
+                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"><img chfox:inch="true" class="- topic/image image" css:display="inline" css:image-resolution="96dpi" css:max-width="100%" href="file:/C:/!%20Monika/studia/GIT/DITA%20project/GstarCAD_Project_Oxygen/images/1.wymagania_sprzetowe.JPG" id="unique_1_Connect_42_image_sbj_jrc_gpb" nd:nd-id="image_sbj_jrc_gpb" placement="inline" src="file:/C:/!%20Monika/studia/GIT/DITA%20project/GstarCAD_Project_Oxygen/images/1.wymagania_sprzetowe.JPG"><css:content-on-element><css:uri extracted-image-height="735" extracted-image-width="629" uri="file:/C:/!%20Monika/studia/GIT/DITA%20project/GstarCAD_Project_Oxygen/images/1.wymagania_sprzetowe.JPG"/></css:content-on-element></img></p>
+                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"><em class="+ topic/ph hi-d/i ph i" css:display="inline" css:font-style="italic">[Źródło: gstarcad.pl]</em></p>
+                            </div>
+                        </article></div></div></div></div></body></html></css:page-sequence><css:page-sequence xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" page="chapter"><html css:counter-reset=" page 1" css:display="block" css:font-family="serif" css:font-size="12px" css:min-width="100%" lang="en" xtrf="file:/C:/!%20Monika/studia/GIT/DITA%20project/GstarCAD_Project_Oxygen/GstarCAD_instrukcja.ditamap"><body class="wh_topic_page" css:display="block" css:font-family="Roboto, sans-serif" css:font-size="10pt" css:margin-left="auto" css:margin-right="auto" css:min-width="100%"><div class="wh_content_area" css:color="rgb(0 , 0 , 0)" css:display="block" css:line-height="1.7em" css:margin-bottom="80px"><div class="wh_topic_body" css:display="block"><div class="wh_topic_content" css:display="block" css:margin-bottom="80px"><div xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" cascade="merge" class="- map/map map" css:counter-reset=" toc-chapter 0 chapter 0 figcount 0 tablecount 0" css:display="block" ditaarch:ditaarchversion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" lang="en" specializations="@props/deliveryTarget" xml:lang="en"><article aria-labelledby="ariaid-title2" break-before="true" class="- topic/topic topic nested0" css:display="block" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_2" is-chapter="true" nd:nd-id="c_instalacja" oid="c_instalacja" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                            <h1 class="- topic/title title topictitle1" css:bookmark-level="1" css:color="rgb(7 , 55 , 99)" css:display="block" css:font-size="2em" css:line-height="1.1em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:oxy-pdf-tag-type="H1" css:page-break-after="avoid" id="ariaid-title2"><css:string-set name="chaptertitle-no-prefix"><css:text> </css:text><css:counter name="chapter" value="2"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:string-set name="chaptertitle"><css:text> | </css:text><css:counter name="chapter" value="2"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:before css:display="inline"><css:text>Chapter </css:text><css:counter name="chapter" value="2"/><css:text/><css:text>. </css:text></css:before><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Instalacja</span></h1>
+                            <div class="- topic/prolog prolog" css:background-color="transparent" css:border-bottom-style="none" css:border-left-style="none" css:border-right-style="none" css:border-top-style="none" css:color="transparent" css:display="none" css:font-size="0" css:height="0" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:padding-bottom="0" css:padding-left="0" css:padding-right="0" css:padding-top="0" css:width="0">
+                                <div class="- topic/author author" css:display="none">Monika
+                                    Wilczyńska-Mitura</div>
+                                <div class="- topic/copyright copyright" css:display="none">
+                                    <div class="- topic/copyryear copyryear" css:display="none" year="2021"/>
+                                    <div class="- topic/copyrholder copyrholder" css:display="none"/>
+                                </div>
+                                <div class="- topic/critdates critdates" css:display="none">
+                                    <div class="- topic/created created" css:display="none" date="2021-03-26"/>
+                                </div>
+                            </div>
+                            <div class="- topic/body body" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Instalator programu GstarCAD 8 można pobrać bezpośrednio ze
+                                    strony internetowej <a class="- topic/xref xref" css:color="rgb(51 , 122 , 183)" css:display="inline" css:link="http://gstarcad.pl/" format="html" href="http://gstarcad.pl/" rel="external noopener" scope="external" target="_blank">www.gstarcad.pl<css:after css:display="inline" css:font-style="italic" css:link="http://gstarcad.pl/"/></a>.
+                                    Instalator programu GstarCAD 8 poprowadzi Cię krok, po kroku
+                                    przez proces instalacji. Program rozróżni automatycznie sposób
+                                    rejestracji w zależności od tego czy użytkownik skorzysta z
+                                    klucza sprzętowego czy numeru seryjnego licencji elektronicznej.
+                                    Poniżej zostały wyszczegulnione kolejno etapy procesu
+                                    instalacji: </p>
+                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">1.Kliknij dwukrotnie na pobrany plik wykonywalny .exe w celu
+                                    uruchomienia instalatora programu GstarCAD 8. Kliknij przycisk
+                                        "<strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Dalej</strong>" aby kontynuować
+                                    proces instalacji. Patrz Rysunek 1-1.</p>
+                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"><img alt="Rys. 1-1." chfox:inch="true" class="- topic/image image" css:display="inline" css:image-resolution="96dpi" css:max-width="100%" css:oxy-alt-text="Rys. 1-1." href="file:/C:/!%20Monika/studia/GIT/DITA%20project/GstarCAD_Project_Oxygen/images/rys1-1.JPG" id="unique_2_Connect_42_image_wdt_pfc_gpb" nd:nd-id="image_wdt_pfc_gpb" placement="inline" src="file:/C:/!%20Monika/studia/GIT/DITA%20project/GstarCAD_Project_Oxygen/images/rys1-1.JPG"><css:content-on-element><css:uri extracted-image-height="258" extracted-image-width="333" uri="file:/C:/!%20Monika/studia/GIT/DITA%20project/GstarCAD_Project_Oxygen/images/rys1-1.JPG"/></css:content-on-element></img></p>
+                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Rys.1-1.</p>
+                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">2. Wyświetlone zostanie okno dialogowe zawierające informacje
+                                    dotyczące warunków licencji. Po zapoznaniu się z nimi zaznacz
+                                    opcję "<strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Akceptuję
+                                        warunki Umowy licencyjnej</strong>" i kliknij przycisk
+                                        "<strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Dalej</strong>" aby kontynuować.
+                                    Patrz Rysunek 1-2.</p>
+                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"><img alt="Rys. 1-2." chfox:inch="true" class="- topic/image image" css:display="inline" css:image-resolution="96dpi" css:max-width="100%" css:oxy-alt-text="Rys. 1-2." href="file:/C:/!%20Monika/studia/GIT/DITA%20project/GstarCAD_Project_Oxygen/images/rys1-2.JPG" id="unique_2_Connect_42_image_yb2_kgc_gpb" nd:nd-id="image_yb2_kgc_gpb" placement="inline" src="file:/C:/!%20Monika/studia/GIT/DITA%20project/GstarCAD_Project_Oxygen/images/rys1-2.JPG"><css:content-on-element><css:uri extracted-image-height="258" extracted-image-width="330" uri="file:/C:/!%20Monika/studia/GIT/DITA%20project/GstarCAD_Project_Oxygen/images/rys1-2.JPG"/></css:content-on-element></img></p>
+                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Rys.1-2.</p>
+                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">3. W następnym oknie instalatora wprowadź swoje dane
+                                    użytkownika i kliknij przycisk "<strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Dalej</strong>". Patrz Rysunek
+                                    1-3.</p>
+                                <img alt="Rys. 1-3." chfox:inch="true" class="- topic/image image" css:display="inline" css:image-resolution="96dpi" css:max-width="100%" css:oxy-alt-text="Rys. 1-3." href="file:/C:/!%20Monika/studia/GIT/DITA%20project/GstarCAD_Project_Oxygen/images/rys1-3.JPG" id="unique_2_Connect_42_image_tld_ngc_gpb" nd:nd-id="image_tld_ngc_gpb" placement="inline" src="file:/C:/!%20Monika/studia/GIT/DITA%20project/GstarCAD_Project_Oxygen/images/rys1-3.JPG"><css:content-on-element><css:uri extracted-image-height="262" extracted-image-width="338" uri="file:/C:/!%20Monika/studia/GIT/DITA%20project/GstarCAD_Project_Oxygen/images/rys1-3.JPG"/></css:content-on-element></img>
+                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Rys.1-3.</p>
+                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">4. Określ ścieżkę katalogu, do którego instalator ma
+                                    zainstalować pliki programu i kliknij przycisk "<strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Dalej</strong>". Patrz Rysunku
+                                    1-4.</p>
+                                <img alt="Rys. 1-4." chfox:inch="true" class="- topic/image image" css:display="inline" css:image-resolution="96dpi" css:max-width="100%" css:oxy-alt-text="Rys. 1-4." href="file:/C:/!%20Monika/studia/GIT/DITA%20project/GstarCAD_Project_Oxygen/images/rys1-4.JPG" id="unique_2_Connect_42_image_pvf_4gc_gpb" nd:nd-id="image_pvf_4gc_gpb" placement="inline" src="file:/C:/!%20Monika/studia/GIT/DITA%20project/GstarCAD_Project_Oxygen/images/rys1-4.JPG"><css:content-on-element><css:uri extracted-image-height="260" extracted-image-width="342" uri="file:/C:/!%20Monika/studia/GIT/DITA%20project/GstarCAD_Project_Oxygen/images/rys1-4.JPG"/></css:content-on-element></img>
+                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Rys.1-4.</p>
+                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">5. W oknie "<strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Opcje
+                                        instalacji</strong>" możesz zaznaczyć dodatkową opcję VBA.
+                                    Następnie kliknij przycisk "<strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Dalej</strong>".</p>
+                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">6. Instalatar jest już gotowy do rozpoczęcia procesu instalacji
+                                    programu. Jeżeli chcesz sprawdzić lub zmienić którekolwiek z
+                                    wybranych ustawień kliknij przycisk "<strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Wstecz</strong>". W celu rozpoczęcia
+                                    instalacji kliknij przycisk "<strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Instaluj</strong>". Patrz Rysunek
+                                    1-5.</p>
+                                <img alt="Rys. 1-5." chfox:inch="true" class="- topic/image image" css:display="inline" css:image-resolution="96dpi" css:max-width="100%" css:oxy-alt-text="Rys. 1-5." href="file:/C:/!%20Monika/studia/GIT/DITA%20project/GstarCAD_Project_Oxygen/images/rys1-5.JPG" id="unique_2_Connect_42_image_aqk_pgc_gpb" nd:nd-id="image_aqk_pgc_gpb" placement="inline" src="file:/C:/!%20Monika/studia/GIT/DITA%20project/GstarCAD_Project_Oxygen/images/rys1-5.JPG"><css:content-on-element><css:uri extracted-image-height="248" extracted-image-width="329" uri="file:/C:/!%20Monika/studia/GIT/DITA%20project/GstarCAD_Project_Oxygen/images/rys1-5.JPG"/></css:content-on-element></img>
+                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Rys.1-5.</p>
+                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">7. Instalacja programu GstarCAD 8 przebiegła pomyślnie. Kliknij
+                                    przycisk "<strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Zakończ</strong>" aby zakończyć pracę instalatora. Patrz
+                                    Rysunek 1-6</p>
+                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"><img alt="Rys. 1-6." chfox:inch="true" class="- topic/image image" css:display="inline" css:image-resolution="96dpi" css:max-width="100%" css:oxy-alt-text="Rys. 1-6." href="file:/C:/!%20Monika/studia/GIT/DITA%20project/GstarCAD_Project_Oxygen/images/rys1-6.JPG" id="unique_2_Connect_42_image_xsg_rgc_gpb" nd:nd-id="image_xsg_rgc_gpb" placement="inline" src="file:/C:/!%20Monika/studia/GIT/DITA%20project/GstarCAD_Project_Oxygen/images/rys1-6.JPG"><css:content-on-element><css:uri extracted-image-height="257" extracted-image-width="341" uri="file:/C:/!%20Monika/studia/GIT/DITA%20project/GstarCAD_Project_Oxygen/images/rys1-6.JPG"/></css:content-on-element></img></p>
+                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Rys.1-6.</p>
+                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"><em class="+ topic/ph hi-d/i ph i" css:display="inline" css:font-style="italic">[Źródło: gstarcad.pl]</em></p>
+                            </div>
+                        </article></div></div></div></div></body></html></css:page-sequence><css:page-sequence xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" page="chapter"><html css:counter-reset=" page 1" css:display="block" css:font-family="serif" css:font-size="12px" css:min-width="100%" lang="en" xtrf="file:/C:/!%20Monika/studia/GIT/DITA%20project/GstarCAD_Project_Oxygen/GstarCAD_instrukcja.ditamap"><body class="wh_topic_page" css:display="block" css:font-family="Roboto, sans-serif" css:font-size="10pt" css:margin-left="auto" css:margin-right="auto" css:min-width="100%"><div class="wh_content_area" css:color="rgb(0 , 0 , 0)" css:display="block" css:line-height="1.7em" css:margin-bottom="80px"><div class="wh_topic_body" css:display="block"><div class="wh_topic_content" css:display="block" css:margin-bottom="80px"><div xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" cascade="merge" class="- map/map map" css:counter-reset=" toc-chapter 0 chapter 0 figcount 0 tablecount 0" css:display="block" ditaarch:ditaarchversion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" lang="en" specializations="@props/deliveryTarget" xml:lang="en"><article aria-labelledby="ariaid-title3" break-before="true" class="- topic/topic topic nested0" css:display="block" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_3" is-chapter="true" nd:nd-id="c_pierwsze_kroki" oid="c_pierwsze_kroki" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                            <h1 class="- topic/title title topictitle1" css:bookmark-level="1" css:color="rgb(7 , 55 , 99)" css:display="block" css:font-size="2em" css:line-height="1.1em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:oxy-pdf-tag-type="H1" css:page-break-after="avoid" id="ariaid-title3"><css:string-set name="chaptertitle-no-prefix"><css:text> </css:text><css:counter name="chapter" value="3"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:string-set name="chaptertitle"><css:text> | </css:text><css:counter name="chapter" value="3"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:before css:display="inline"><css:text>Chapter </css:text><css:counter name="chapter" value="3"/><css:text/><css:text>. </css:text></css:before><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Pierwsze kroki</span></h1>
+                            <div class="- topic/prolog prolog" css:background-color="transparent" css:border-bottom-style="none" css:border-left-style="none" css:border-right-style="none" css:border-top-style="none" css:color="transparent" css:display="none" css:font-size="0" css:height="0" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:padding-bottom="0" css:padding-left="0" css:padding-right="0" css:padding-top="0" css:width="0">
+                                <div class="- topic/author author" css:display="none">Monika
+                                    Wilczyńska-Mitura</div>
+                                <div class="- topic/copyright copyright" css:display="none">
+                                    <div class="- topic/copyryear copyryear" css:display="none" year="2021"/>
+                                    <div class="- topic/copyrholder copyrholder" css:display="none"/>
+                                </div>
+                                <div class="- topic/critdates critdates" css:display="none">
+                                    <div class="- topic/created created" css:display="none" date="2021-03-26"/>
+                                </div>
+                            </div>
+                            <div class="- topic/body body" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"><a class="- topic/xref xref" css:color="rgb(51 , 122 , 183)" css:display="inline" css:link="#unique_4" href="#unique_4" type="topic">Interfejs
+                                        użytkownika<css:after css:display="inline" css:font-style="italic" css:link="#unique_4"><css:text> (on page </css:text><css:target-counter url-fragment="unique_4"/><css:text>)</css:text></css:after></a></p>
+                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"><a class="- topic/xref xref" css:color="rgb(51 , 122 , 183)" css:display="inline" css:link="#unique_5" href="#unique_5" type="topic">Dostosowanie
+                                        programu<css:after css:display="inline" css:font-style="italic" css:link="#unique_5"><css:text> (on page </css:text><css:target-counter url-fragment="unique_5"/><css:text>)</css:text></css:after></a></p>
+                            </div>
+                            <article aria-labelledby="ariaid-title4" class="- topic/topic topic nested1" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_4" nd:nd-id="c_interfejs_uzytkownika" oid="c_interfejs_uzytkownika" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                                <h2 class="- topic/title title topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:color="rgb(7 , 55 , 99)" css:display="block" css:font-size="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title4"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Interfejs użytkownika</span></h2>
+                                <div class="- topic/prolog prolog" css:background-color="transparent" css:border-bottom-style="none" css:border-left-style="none" css:border-right-style="none" css:border-top-style="none" css:color="transparent" css:display="none" css:font-size="0" css:height="0" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:padding-bottom="0" css:padding-left="0" css:padding-right="0" css:padding-top="0" css:width="0">
+                                    <div class="- topic/author author" css:display="none">Monika
+                                        Wilczyńska-Mitura</div>
+                                    <div class="- topic/copyright copyright" css:display="none">
+                                        <div class="- topic/copyryear copyryear" css:display="none" year="2021"/>
+                                        <div class="- topic/copyrholder copyrholder" css:display="none"/>
+                                    </div>
+                                    <div class="- topic/critdates critdates" css:display="none">
+                                        <div class="- topic/created created" css:display="none" date="2021-03-26"/>
+                                    </div>
+                                </div>
+                                <div class="- topic/body body" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"/>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Możesz cieszyć
+                                        się pracą w środowisku programu GstarCAD 8 na kilka różnych
+                                        sposobów. Użytkownik ma możliwość spersonalizowania
+                                        interfejsu programu poprzez określenia położenia
+                                        wyświetlanych elementów takich jak paski narzędziowe, pasek
+                                        poleceń, swobodne przełączanie się pomiędzy obszarami pracy,
+                                        zmianę motywy interfejsu i odblokowanie paska stanu. Paski
+                                        narzędziowe i pasek poleceń mogą być zadokowane lub
+                                        swobodnie przemieszczane i wyświetlane w dowolnym miejscu
+                                        ekranu.</p>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"><img alt="Rys. 3-1. Interfejs programu" chfox:inch="true" class="- topic/image image" css:display="inline" css:image-resolution="96dpi" css:max-width="100%" css:oxy-alt-text="Rys. 3-1. Interfejs programu" href="file:/C:/!%20Monika/studia/GIT/DITA%20project/GstarCAD_Project_Oxygen/images/interfejs.JPG" id="unique_4_Connect_42_image_vbj_fhc_gpb" nd:nd-id="image_vbj_fhc_gpb" placement="inline" src="file:/C:/!%20Monika/studia/GIT/DITA%20project/GstarCAD_Project_Oxygen/images/interfejs.JPG"><css:content-on-element><css:uri extracted-image-height="450" extracted-image-width="735" uri="file:/C:/!%20Monika/studia/GIT/DITA%20project/GstarCAD_Project_Oxygen/images/interfejs.JPG"/></css:content-on-element></img></p>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Rys. 3-1.
+                                        Interfejs programu.</p>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">1. Pasek
+                                        szybkiego dostępu: Wyświetla najczęściej używane narzędzia
+                                        takie jak: Nowy, 15 Otwórz, Zapisz, Cofnij, Zapisz jako,
+                                        Drukuj, Podgląd wydruku i Pomoc. Ponadto można go
+                                        spersonalizować (poprzez dodanie innych poleceń za pomocą
+                                        przycisku rozwijalnego) lub wybrać czy menu szybkiego
+                                        dostępu będzie wyświetla nad czy pod interfejsem
+                                        wstążkowym.</p>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">2. Przełączanie
+                                        obszaru roboczego: Pozwala na przełączanie pomiędzy dwoma
+                                        rodzajami interfejsu (Rysowanie 2D i GstarCAD
+                                        Klasyczny).</p>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">3. Pasek Menu:
+                                        Jest używany do wyboru poleceń za pomocą myszy zamiast
+                                        wprowadzania poleceń z klawiatury. Znajdują się tu
+                                        następujące zakładki: Plik, Edytuj, Widok, Wstaw, Format,
+                                        Narzędzia, Rysuj, Wymiar, Modyfikuj, Okno, Pomoc i
+                                        Express.</p>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">4. Interfejs
+                                        wstążkowy: Składa się on z kilku paneli, które są
+                                        uporządkowane zgodnie z przypisanymi im etykietkami.
+                                        Narzędzia widoczne w każdym z paneli są również dostępne w
+                                        paskach narzędziowych i oknach dialogowych.</p>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">5. Wygląd:
+                                        Użytkownik ma możliwość zarządzania zakładkami plików i
+                                        paskiem powiadomień.</p>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">6. Obszar
+                                        rysowania: Rysunek wyświetlany jest w oknie rysowania.</p>
+                                    <div class="- topic/p p" css:display="block">7. Paski
+                                        narzędziowe: Paski narzędziowe częściowo zawierają przyciski
+                                        wywołujące polecenia. Aby wyświetlić nazwę danej komendy
+                                        najedź kursorem myszy na wybrany przycisk polecenia.
+                                        Standardowy pasek narzędzi, umieszczony na górze obszaru
+                                        rysowania zawiera najczęściej używane polecenia, a także tak
+                                        jak w przypadku pakietu Office polecenia Nowy, Otwórz i
+                                        Zapisz. Program GstarCAD 8 w widoku klasycznym domyślnie
+                                        wyświetla kilka pasków narzędziowych: -<ul class="- topic/ul ul" css:display="block" css:list-style-type="disc" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px" id="unique_4_Connect_42_ul_mk3_rhc_gpb" nd:nd-id="ul_mk3_rhc_gpb">
+                                            <li class="- topic/li li" css:display="list-item"><css:marker css:color="rgb(56 , 111 , 218)" css:display="inline"/>Pasek
+                                                rysowania</li>
+                                            <li class="- topic/li li" css:display="list-item"><css:marker css:color="rgb(56 , 111 , 218)" css:display="inline"/>Pasek
+                                                kontroli rysowania</li>
+                                            <li class="- topic/li li" css:display="list-item"><css:marker css:color="rgb(56 , 111 , 218)" css:display="inline"/>Pasek
+                                                zmian</li>
+                                            <li class="- topic/li li" css:display="list-item"><css:marker css:color="rgb(56 , 111 , 218)" css:display="inline"/>Pasek
+                                                właściwości</li>
+                                            <li class="- topic/li li" css:display="list-item"><css:marker css:color="rgb(56 , 111 , 218)" css:display="inline"/>Pasek
+                                                narzędzi warstwy</li>
+                                            <li class="- topic/li li" css:display="list-item"><css:marker css:color="rgb(56 , 111 , 218)" css:display="inline"/>Pasek
+                                                narzędzi stylów</li>
+                                            <li class="- topic/li li" css:display="list-item"><css:marker css:color="rgb(56 , 111 , 218)" css:display="inline"/>Standardowy
+                                                pasek narzędzi</li>
+                                        </ul></div>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">8. Układ
+                                        współrzędnych użytkownika (LUW): Ikona wyznacza orientacje
+                                        rysunku w dwu wymiarowej przestrzeni.</p>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">9. Zakładki
+                                        przestrzeni Modelu i przestrzeni Układu: Kliknij na zakładkę
+                                        aby przełączyć się pomiędzy rysowanym modelem i układem
+                                        wydruku.</p>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">10. Okno
+                                        poleceń: Pasek poleceń jest to okno z możliwością
+                                        zadokowania, w którym wprowadzane są nazwy poleceń za pomocą
+                                        klawiatury. W oknie tym wyświetlane są również powiadomienia
+                                        i inny komunikaty zwracane przez program. Okno poleceń można
+                                        przeciągnąć w dowolne miejsce ekranu. Jeżeli pasek poleceń
+                                        jest niezadokowany, możesz rozciągnąć jego okno aby otrzymać
+                                        większą liczbę widocznych linii tekstu. </p>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">11. Pasek stanu:
+                                        Wyświetla informacje takie jak bieżące współrzędne kursora,
+                                        opcje Snap, Grid, Ortho, Polar, Osnap, Otrackand i inne
+                                        ustawienia. Poza wyświetlaniem informacji, pasek stanu
+                                        pozwala na szybki dostęp do wielu funkcji. Klikając elementy
+                                        paska stanu można szybko dokonać zmian. Kliknięcie prawym
+                                        przyciskiem myszy na element paska powoduje wyświetlenie
+                                        menu skrótów pozwalające na wybranie większej ilości
+                                        dostępnych opcji. Domyślnie pasek stanu wygląda tak jak na
+                                        rysunku poniżej: Klikając prawym przyciskiem myszy na pustą
+                                        przestrzeń paska stanu można wyświetlać lub ukrywać
+                                        polecenia a nawet zmieniać je w ikony:</p>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">12. Paleta
+                                        Właściwości: Możesz modyfikować wartości lub właściwości
+                                        obiektów w każdej z kolumn. Paleta Właściwości pokazuje
+                                        wszystkie właściwości określonego obiektu. Jeżeli wybierzesz
+                                        wiele obiektów, Paleta Właściwości pokaże polecenie
+                                        właściwości zaznaczonych obiektów. Jeżeli żaden obiekt nie
+                                        zostanie zaznaczony, Paleta Właściwości wyświetli ogólne
+                                        właściwości bieżącej warstwy, a także właściwości jako
+                                        informacje Układu współrzędnych użytkownika. Domyślnie
+                                        podwójne kliknięcie na obiekt otwiera Paletę Właściwości
+                                        jeżeli paleta jest ukryta. Operacja ta jest niemożliwa gdy
+                                        obiekt jest blokiem, wzorem kreskowania, tekstem,
+                                        odnośnikiem zewnętrznym lub wypełnieniem gradientowym.</p>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"><em class="+ topic/ph hi-d/i ph i" css:display="inline" css:font-style="italic">[Źródło: gstarcad.pl]</em></p>
+                                </div>
+                            </article>
+                            <article aria-labelledby="ariaid-title5" class="- topic/topic topic nested1" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_5" nd:nd-id="c_dostosowanie_programu" oid="c_dostosowanie_programu" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                                <h2 class="- topic/title title topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:color="rgb(7 , 55 , 99)" css:display="block" css:font-size="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title5"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Dostosowanie programu</span></h2>
+                                <div class="- topic/prolog prolog" css:background-color="transparent" css:border-bottom-style="none" css:border-left-style="none" css:border-right-style="none" css:border-top-style="none" css:color="transparent" css:display="none" css:font-size="0" css:height="0" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:padding-bottom="0" css:padding-left="0" css:padding-right="0" css:padding-top="0" css:width="0">
+                                    <div class="- topic/author author" css:display="none">Monika
+                                        Wilczyńska-Mitura</div>
+                                    <div class="- topic/copyright copyright" css:display="none">
+                                        <div class="- topic/copyryear copyryear" css:display="none" year="2021"/>
+                                        <div class="- topic/copyrholder copyrholder" css:display="none"/>
+                                    </div>
+                                    <div class="- topic/critdates critdates" css:display="none">
+                                        <div class="- topic/created created" css:display="none" date="2021-03-26"/>
+                                    </div>
+                                </div>
+                                <div class="- topic/body body" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">W programie
+                                        GstarCAD 8 znajduje się wiele różnych elementów środowiska
+                                        pracy, które możesz dostosować do własnych potrzeb.</p>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Ustawienia opcji
+                                            interfejsu</strong></p>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">W oknie
+                                        dialogowym "Opcje", możesz zmienić wiele ustawień interfejsu
+                                        i środowiska rysowania.</p>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Ustawienia modyfikacji
+                                            interfejs</strong></p>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Automatyczny
+                                        zapis (w zakładce Otwórz i zapisz): Określa odstępy czasu po
+                                        jakich rysunek ma być automatycznie zapisywany/ Aby użyć tej
+                                        opcji, zaznacz Automatyczny zapis w zakładce Otwórz i zapisz
+                                        oraz wprowadź wartość czasu w minutach.</p>
+                                    <ul class="- topic/ul ul" css:display="block" css:list-style-type="disc" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px" id="unique_5_Connect_42_ul_ijg_3jc_gpb" nd:nd-id="ul_ijg_3jc_gpb">
+                                        <li class="- topic/li li" css:display="list-item"><css:marker css:color="rgb(56 , 111 , 218)" css:display="inline"/>Kolory
+                                            (zakładka Ekran): Pozwala określić kolor tła używanego w
+                                            Układzie, zakładki Modelu, kolor podpowiedzi i
+                                            celownika.</li>
+                                        <li class="- topic/li li" css:display="list-item"><css:marker css:color="rgb(56 , 111 , 218)" css:display="inline"/>Czcionki
+                                            (zakładka Ekran): Pozwala na zmianę czcionek używanych w
+                                            oknie i oknie tekstowym. Ustawienia te nie zmieniają
+                                            tekstu na rysunku.</li>
+                                        <li class="- topic/li li" css:display="list-item"><css:marker css:color="rgb(56 , 111 , 218)" css:display="inline"/>Ścieżka
+                                            wyszukiwania (zakładka Plik): Określa ścieżkę do
+                                            wyszukiwania plików pomocniczych rysowania, takich jak
+                                            czcionki, rysunki, typy linii i wzory kreskowania.</li>
+                                    </ul>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Zapisywanie i przywracanie
+                                            profili</strong></p>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Program GstarCAD
+                                        8 pozwala na tworzenie profili dla różnych użytkowników lub
+                                        projektów oraz dzielenie się nimi poprzez import i eksport
+                                        plików profili. Domyślnie, bieżące opcje są przechowywane w
+                                        profilu o nazwie Domyślny. Nazwa bieżącego profilu, a także
+                                        nazwa bieżącego rysunku, jest wyświetlana w oknie dialogowym
+                                        "Opcje".</p>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">GstarCAD 8
+                                        przechowuje informacje o profilu w rejestrze systemowym i
+                                        zapisuje je jako plik tekstowy (plik ARG), a także
+                                        organizuje podstawowe dane i zachowuje zmiany w rejestrze
+                                        zgodnie z wymaganiami.</p>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Jeżeli dokonasz
+                                        zmian w bieżącym profilu podczas trwania sesji programu i
+                                        chcesz zapisać zmiany w pliku ARG, konieczne jest
+                                        wyeksportowanie profilu. Gdy wyeksportujesz profil o
+                                        bieżącej nazwie, program GstarCAD zaktualizuje plik ARG z
+                                        nowymi ustawieniami. Możesz ponownie zaimportować plik
+                                        profilu w programie, w celu zaktualizowania ustawień
+                                        profilu.</p>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Palety narzędzi</strong></p>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Palety narzędzi
+                                        znajdują się w kartach wewnątrz okna "Palety narzędzi".
+                                        Możesz utworzyć narzędzie poprzez przeciągnięcie obiektu na
+                                        paletę narzędzi. W programie GstarCAD, bloki i odnośniki
+                                        zewnętrzne (pliki xref) mogą być przeciągnięte na paletę
+                                        narzędzi. Nowo wstawione narzędzie będzie miało takie same
+                                        właściwości wewnątrz rysunku. Możesz również utworzyć,
+                                        usunąć, zmienić nazwę i spersonalizować panele poprzez
+                                        kliknięcie na nie prawym przyciskiem myszy. Aby otworzyć
+                                        panele narzędzi użyj skrótu CTRL+3 lub wprowadź polecenie
+                                        TOOLPALETTES.</p>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Centrum
+                                        projektowania</strong></p>
+                                    <div class="- topic/p p" css:display="block">W oknie Centrum
+                                        projektowania, możesz określić dostęp do rysunków, bloków,
+                                        stylów tekstu i innych zawartości rysowania:<ul class="- topic/ul ul" css:display="block" css:list-style-type="disc" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px" id="unique_5_Connect_42_ul_sn2_rjc_gpb" nd:nd-id="ul_sn2_rjc_gpb">
+                                            <li class="- topic/li li" css:display="list-item"><css:marker css:color="rgb(56 , 111 , 218)" css:display="inline"/>Wybierz
+                                                plik rysunku znajdujący się na komputerze lub dysku
+                                                sieciowym.</li>
+                                            <li class="- topic/li li" css:display="list-item"><css:marker css:color="rgb(56 , 111 , 218)" css:display="inline"/>Zobacz
+                                                tabele definicji nazwanych obiektów, a następnie
+                                                wstaw, załącz, skopiuj lub wstaw definicje do
+                                                bieżącego rysunku.</li>
+                                            <li class="- topic/li li" css:display="list-item"><css:marker css:color="rgb(56 , 111 , 218)" css:display="inline"/>Utwórz
+                                                skrót do rysunków i folderów, z których często
+                                                korzystasz.</li>
+                                            <li class="- topic/li li" css:display="list-item"><css:marker css:color="rgb(56 , 111 , 218)" css:display="inline"/>Dodaj
+                                                zawartość taką jak pliki xref czy bloki do
+                                                rysunku.</li>
+                                            <li class="- topic/li li" css:display="list-item"><css:marker css:color="rgb(56 , 111 , 218)" css:display="inline"/>Przeciągaj
+                                                rysunki i bloki do palety narzędzi aby uzyskać do
+                                                nich wygodny dostęp.</li>
+                                        </ul></div>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"><em class="+ topic/ph hi-d/i ph i" css:display="inline" css:font-style="italic">Zakładka folderów</em>:
+                                        Następujące ikony są wyświetlane w zakładkach: sieć i
+                                        komputer, dyski komputera, foldery, rysunki i powiązane
+                                        pliku wsparcia, pliki xref, Układ i nazwane obiekty,
+                                        załączone bloki, warstwy, typy linii, style tekstu i style
+                                        wymiaru wewnątrz rysunku.</p>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"><em class="+ topic/ph hi-d/i ph i" css:display="inline" css:font-style="italic">Otwieranie rysunków</em>:
+                                        Bieżąca lista otwartych rysunków. Jeżeli klikniesz na tabele
+                                        definicji, możesz wczytać zawartość wewnątrz obszaru
+                                        zawartości.</p>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"><em class="+ topic/ph hi-d/i ph i" css:display="inline" css:font-style="italic">Historia</em>: Lista poprzednio
+                                        otworzonych plików. Jeżeli dwukrotnie klikniesz na plik
+                                        rysunku na liście, możesz wczytać zawartość wewnątrz obszaru
+                                        zawartości.</p>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"><em class="+ topic/ph hi-d/i ph i" css:display="inline" css:font-style="italic">Ulubione</em>: Jeżeli posiadasz
+                                        zawartość, do której potrzebujesz szybkiego dostępu, Centrum
+                                        projektowania pozwala na wyszukiwanie potrzebnej
+                                        zawartości.Gdy zaznaczysz typ zawartości, kliknij dwukrotnie
+                                        prawym przyciskiem myszy i dodaj go do Ulubionych. W
+                                        folderze ulubione zapisywane są skróty do zawartości
+                                        znajdującej się na dysku lub dysku sieciowym. Oryginalny
+                                        plik lub folder nie zostaje przeniesiony. Wszystkie
+                                        stworzone skróty zostają przechowane w folderze
+                                        Ulubione.</p>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"><em class="+ topic/ph hi-d/i ph i" css:display="inline" css:font-style="italic">[Źródło: gstarcad.pl]</em></p>
+                                </div>
+                            </article>
+                        </article></div></div></div></div></body></html></css:page-sequence><css:page-sequence xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" page="chapter"><html css:counter-reset=" page 1" css:display="block" css:font-family="serif" css:font-size="12px" css:min-width="100%" lang="en" xtrf="file:/C:/!%20Monika/studia/GIT/DITA%20project/GstarCAD_Project_Oxygen/GstarCAD_instrukcja.ditamap"><body class="wh_topic_page" css:display="block" css:font-family="Roboto, sans-serif" css:font-size="10pt" css:margin-left="auto" css:margin-right="auto" css:min-width="100%"><div class="wh_content_area" css:color="rgb(0 , 0 , 0)" css:display="block" css:line-height="1.7em" css:margin-bottom="80px"><div class="wh_topic_body" css:display="block"><div class="wh_topic_content" css:display="block" css:margin-bottom="80px"><div xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" cascade="merge" class="- map/map map" css:counter-reset=" toc-chapter 0 chapter 0 figcount 0 tablecount 0" css:display="block" ditaarch:ditaarchversion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" lang="en" specializations="@props/deliveryTarget" xml:lang="en"><article aria-labelledby="ariaid-title6" break-before="true" class="- topic/topic topic nested0" css:display="block" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_6" is-chapter="true" nd:nd-id="c_edycja_rysunku" oid="c_edycja_rysunku" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                            <h1 class="- topic/title title topictitle1" css:bookmark-level="1" css:color="rgb(7 , 55 , 99)" css:display="block" css:font-size="2em" css:line-height="1.1em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:oxy-pdf-tag-type="H1" css:page-break-after="avoid" id="ariaid-title6"><css:string-set name="chaptertitle-no-prefix"><css:text> </css:text><css:counter name="chapter" value="4"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:string-set name="chaptertitle"><css:text> | </css:text><css:counter name="chapter" value="4"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:before css:display="inline"><css:text>Chapter </css:text><css:counter name="chapter" value="4"/><css:text/><css:text>. </css:text></css:before><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Edycja rysunku</span></h1>
+                            <div class="- topic/prolog prolog" css:background-color="transparent" css:border-bottom-style="none" css:border-left-style="none" css:border-right-style="none" css:border-top-style="none" css:color="transparent" css:display="none" css:font-size="0" css:height="0" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:padding-bottom="0" css:padding-left="0" css:padding-right="0" css:padding-top="0" css:width="0">
+                                <div class="- topic/author author" css:display="none">Monika
+                                    Wilczyńska-Mitura</div>
+                                <div class="- topic/copyright copyright" css:display="none">
+                                    <div class="- topic/copyryear copyryear" css:display="none" year="2021"/>
+                                    <div class="- topic/copyrholder copyrholder" css:display="none"/>
+                                </div>
+                                <div class="- topic/critdates critdates" css:display="none">
+                                    <div class="- topic/created created" css:display="none" date="2021-03-26"/>
+                                </div>
+                            </div>
+                            <div class="- topic/body body" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Lorem ipsum dolor sit amet,
+                                        consectetur adipiscing elit, sed do eiusmod tempor
+                                        incididunt ut labore et dolore magna aliqua. Ut enim ad
+                                        minim veniam, quis nostrud exercitation ullamco laboris nisi
+                                        ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+                                        reprehenderit in voluptate velit esse cillum dolore eu
+                                        fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+                                        proident, sunt in culpa qui officia deserunt mollit anim id
+                                        est laborum.</strong></p>
+                            </div>
+                            <article aria-labelledby="ariaid-title7" class="- topic/topic topic nested1" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_7" nd:nd-id="t_tworzenie_rysunku" oid="t_tworzenie_rysunku" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                                <h2 class="- topic/title title topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:color="rgb(7 , 55 , 99)" css:display="block" css:font-size="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title7"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Tworzenie rysunku</span></h2>
+                                <div class="- topic/prolog prolog" css:background-color="transparent" css:border-bottom-style="none" css:border-left-style="none" css:border-right-style="none" css:border-top-style="none" css:color="transparent" css:display="none" css:font-size="0" css:height="0" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:padding-bottom="0" css:padding-left="0" css:padding-right="0" css:padding-top="0" css:width="0">
+                                    <div class="- topic/author author" css:display="none">Monika
+                                        Wilczyńska-Mitura</div>
+                                    <div class="- topic/copyright copyright" css:display="none">
+                                        <div class="- topic/copyryear copyryear" css:display="none" year="2021"/>
+                                        <div class="- topic/copyrholder copyrholder" css:display="none"/>
+                                    </div>
+                                    <div class="- topic/critdates critdates" css:display="none">
+                                        <div class="- topic/created created" css:display="none" date="2021-03-26"/>
+                                    </div>
+                                </div>
+                                <div class="- topic/body body" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"><u class="+ topic/ph hi-d/u ph u" css:display="inline" css:text-decoration="underline">Lorem ipsum dolor sit
+                                            amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                            incididunt ut labore et dolore magna aliqua. Ut enim ad
+                                            minim veniam, quis nostrud exercitation ullamco laboris
+                                            nisi ut aliquip ex ea commodo consequat. Duis aute irure
+                                            dolor in reprehenderit in voluptate velit esse cillum
+                                            dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+                                            cupidatat non proident, sunt in culpa qui officia
+                                            deserunt mollit anim id est laborum.</u></p>
+                                </div>
+                            </article>
+                            <article aria-labelledby="ariaid-title8" class="- topic/topic topic nested1" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_8" nd:nd-id="t_otwieranie_rysunku" oid="t_otwieranie_rysunku" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                                <h2 class="- topic/title title topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:color="rgb(7 , 55 , 99)" css:display="block" css:font-size="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title8"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Otwieranie rysunku</span></h2>
+                                <div class="- topic/prolog prolog" css:background-color="transparent" css:border-bottom-style="none" css:border-left-style="none" css:border-right-style="none" css:border-top-style="none" css:color="transparent" css:display="none" css:font-size="0" css:height="0" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:padding-bottom="0" css:padding-left="0" css:padding-right="0" css:padding-top="0" css:width="0">
+                                    <div class="- topic/author author" css:display="none">Monika
+                                        Wilczyńska-Mitura</div>
+                                    <div class="- topic/copyright copyright" css:display="none">
+                                        <div class="- topic/copyryear copyryear" css:display="none" year="2021"/>
+                                        <div class="- topic/copyrholder copyrholder" css:display="none"/>
+                                    </div>
+                                    <div class="- topic/critdates critdates" css:display="none">
+                                        <div class="- topic/created created" css:display="none" date="2021-03-26"/>
+                                    </div>
+                                </div>
+                                <div class="- topic/body body" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"><u class="+ topic/ph hi-d/u ph u" css:display="inline" css:text-decoration="underline">Lorem ipsum dolor sit
+                                            amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                            incididunt ut labore et dolore magna aliqua. Ut enim ad
+                                            minim veniam, quis nostrud exercitation ullamco laboris
+                                            nisi ut aliquip ex ea commodo consequat. Duis aute irure
+                                            dolor in reprehenderit in voluptate velit esse cillum
+                                            dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+                                            cupidatat non proident, sunt in culpa qui officia
+                                            deserunt mollit anim id est laborum.</u></p>
+                                </div>
+                            </article>
+                            <article aria-labelledby="ariaid-title9" class="- topic/topic topic nested1" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_9" nd:nd-id="t_zapis_rysunku" oid="t_zapis_rysunku" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                                <h2 class="- topic/title title topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:color="rgb(7 , 55 , 99)" css:display="block" css:font-size="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title9"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Zapis rysunku</span></h2>
+                                <div class="- topic/prolog prolog" css:background-color="transparent" css:border-bottom-style="none" css:border-left-style="none" css:border-right-style="none" css:border-top-style="none" css:color="transparent" css:display="none" css:font-size="0" css:height="0" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:padding-bottom="0" css:padding-left="0" css:padding-right="0" css:padding-top="0" css:width="0">
+                                    <div class="- topic/author author" css:display="none">Monika
+                                        Wilczyńska-Mitura</div>
+                                    <div class="- topic/copyright copyright" css:display="none">
+                                        <div class="- topic/copyryear copyryear" css:display="none" year="2021"/>
+                                        <div class="- topic/copyrholder copyrholder" css:display="none"/>
+                                    </div>
+                                    <div class="- topic/critdates critdates" css:display="none">
+                                        <div class="- topic/created created" css:display="none" date="2021-03-26"/>
+                                    </div>
+                                </div>
+                                <div class="- topic/body body" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"><u class="+ topic/ph hi-d/u ph u" css:display="inline" css:text-decoration="underline">Lorem ipsum dolor sit
+                                            amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                            incididunt ut labore et dolore magna aliqua. Ut enim ad
+                                            minim veniam, quis nostrud exercitation ullamco laboris
+                                            nisi ut aliquip ex ea commodo consequat. Duis aute irure
+                                            dolor in reprehenderit in voluptate velit esse cillum
+                                            dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+                                            cupidatat non proident, sunt in culpa qui officia
+                                            deserunt mollit anim id est laborum.</u></p>
+                                </div>
+                            </article>
+                            <article aria-labelledby="ariaid-title10" class="- topic/topic topic nested1" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_10" nd:nd-id="t_przywracanie_rysunku" oid="t_przywracanie_rysunku" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                                <h2 class="- topic/title title topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:color="rgb(7 , 55 , 99)" css:display="block" css:font-size="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title10"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Przywracanie rysunku</span></h2>
+                                <div class="- topic/prolog prolog" css:background-color="transparent" css:border-bottom-style="none" css:border-left-style="none" css:border-right-style="none" css:border-top-style="none" css:color="transparent" css:display="none" css:font-size="0" css:height="0" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:padding-bottom="0" css:padding-left="0" css:padding-right="0" css:padding-top="0" css:width="0">
+                                    <div class="- topic/author author" css:display="none">Monika
+                                        Wilczyńska-Mitura</div>
+                                    <div class="- topic/copyright copyright" css:display="none">
+                                        <div class="- topic/copyryear copyryear" css:display="none" year="2021"/>
+                                        <div class="- topic/copyrholder copyrholder" css:display="none"/>
+                                    </div>
+                                    <div class="- topic/critdates critdates" css:display="none">
+                                        <div class="- topic/created created" css:display="none" date="2021-03-26"/>
+                                    </div>
+                                </div>
+                                <div class="- topic/body body" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"><u class="+ topic/ph hi-d/u ph u" css:display="inline" css:text-decoration="underline">Lorem ipsum dolor sit
+                                            amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                            incididunt ut labore et dolore magna aliqua. Ut enim ad
+                                            minim veniam, quis nostrud exercitation ullamco laboris
+                                            nisi ut aliquip ex ea commodo consequat. Duis aute irure
+                                            dolor in reprehenderit in voluptate velit esse cillum
+                                            dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+                                            cupidatat non proident, sunt in culpa qui officia
+                                            deserunt mollit anim id est laborum.</u></p>
+                                </div>
+                            </article>
+                        </article></div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html></css:page-sequence></css:root>

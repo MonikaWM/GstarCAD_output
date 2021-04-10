@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program Files/Oxygen XML Editor 23/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program Files/Oxygen XML Editor 23/frameworks/dita/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program Files/Oxygen XML Editor 23/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2023/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/oxygen-with-colors.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2023/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/notes.css'?>
+<map xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:css2fo="http://www.oxygenxml.com/css2fo" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/C:/!%20Monika/studia/GIT/DITA%20project/GstarCAD_Project_Oxygen/GstarCAD_instrukcja.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><topicmeta xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- map/topicmeta ">
+        <author class="- topic/author ">Monika Wilczyńska-Mitura</author>
+        <copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2021"/>
+            <copyrholder class="- topic/copyrholder "/>
+        </copyright>
+        <critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2021-03-26"/>
+        </critdates>
+    </topicmeta><oxy:front-page-title class="- front-page/front-page-title "><title class="- topic/title ">GstarCAD instrukcja</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+    <title class="- topic/title ">GstarCAD instrukcja</title>
+    
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_1" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="wprowadzenie"><resourceid appid="wprowadzenie" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">Wprowadzenie</navtitle><?ditaot gentext?><author class="- topic/author ">Monika Wilczyńska-Mitura</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2021"/>
+            <copyrholder class="- topic/copyrholder "/>
+        </copyright><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2021-03-26"/>
+        </critdates></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_2" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="c_instalacja"><resourceid appid="c_instalacja" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">Instalacja</navtitle><?ditaot gentext?><author class="- topic/author ">Monika Wilczyńska-Mitura</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2021"/>
+            <copyrholder class="- topic/copyrholder "/>
+        </copyright><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2021-03-26"/>
+        </critdates></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_3" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="c_pierwsze_kroki"><resourceid appid="c_pierwsze_kroki" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">Pierwsze kroki</navtitle><?ditaot gentext?><author class="- topic/author ">Monika Wilczyńska-Mitura</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2021"/>
+            <copyrholder class="- topic/copyrholder "/>
+        </copyright><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2021-03-26"/>
+        </critdates></topicmeta><topicref class="- map/topicref " href="#unique_4" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="c_interfejs_uzytkownika"><resourceid appid="c_interfejs_uzytkownika" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">Interfejs użytkownika</navtitle><?ditaot gentext?><author class="- topic/author ">Monika Wilczyńska-Mitura</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2021"/>
+            <copyrholder class="- topic/copyrholder "/>
+        </copyright><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2021-03-26"/>
+        </critdates></topicmeta></topicref><topicref class="- map/topicref " href="#unique_5" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="c_dostosowanie_programu"><resourceid appid="c_dostosowanie_programu" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">Dostosowanie programu</navtitle><?ditaot gentext?><author class="- topic/author ">Monika Wilczyńska-Mitura</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2021"/>
+            <copyrholder class="- topic/copyrholder "/>
+        </copyright><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2021-03-26"/>
+        </critdates></topicmeta></topicref></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_6" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="c_edycja_rysunku"><resourceid appid="c_edycja_rysunku" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">Edycja rysunku</navtitle><?ditaot gentext?><author class="- topic/author ">Monika Wilczyńska-Mitura</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2021"/>
+            <copyrholder class="- topic/copyrholder "/>
+        </copyright><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2021-03-26"/>
+        </critdates></topicmeta><topicref class="- map/topicref " href="#unique_7" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="t_tworzenie_rysunku"><resourceid appid="t_tworzenie_rysunku" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7" class="- topic/navtitle ">Tworzenie rysunku</navtitle><?ditaot gentext?><author class="- topic/author ">Monika Wilczyńska-Mitura</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2021"/>
+            <copyrholder class="- topic/copyrholder "/>
+        </copyright><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2021-03-26"/>
+        </critdates></topicmeta></topicref><topicref class="- map/topicref " href="#unique_8" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="t_otwieranie_rysunku"><resourceid appid="t_otwieranie_rysunku" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_8" class="- topic/navtitle ">Otwieranie rysunku</navtitle><?ditaot gentext?><author class="- topic/author ">Monika Wilczyńska-Mitura</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2021"/>
+            <copyrholder class="- topic/copyrholder "/>
+        </copyright><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2021-03-26"/>
+        </critdates></topicmeta></topicref><topicref class="- map/topicref " href="#unique_9" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="t_zapis_rysunku"><resourceid appid="t_zapis_rysunku" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_9" class="- topic/navtitle ">Zapis rysunku</navtitle><?ditaot gentext?><author class="- topic/author ">Monika Wilczyńska-Mitura</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2021"/>
+            <copyrholder class="- topic/copyrholder "/>
+        </copyright><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2021-03-26"/>
+        </critdates></topicmeta></topicref><topicref class="- map/topicref " href="#unique_10" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="t_przywracanie_rysunku"><resourceid appid="t_przywracanie_rysunku" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_10" class="- topic/navtitle ">Przywracanie rysunku</navtitle><?ditaot gentext?><author class="- topic/author ">Monika Wilczyńska-Mitura</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2021"/>
+            <copyrholder class="- topic/copyrholder "/>
+        </copyright><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2021-03-26"/>
+        </critdates></topicmeta></topicref></topicref>
+</opentopic:map><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="wprowadzenie" oid="wprowadzenie" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Wprowadzenie</ph></title><prolog class="- topic/prolog "><author class="- topic/author ">Monika Wilczyńska-Mitura</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2021"/>
+            <copyrholder class="- topic/copyrholder "/>
+        </copyright><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2021-03-26"/>
+        </critdates></prolog>
+    <body class="- topic/body ">
+        <p class="- topic/p ">Program GstarCAD 8 jest zupełnie nową platformą CAD, stworzoną z myślą o potrzebach
+            wymagających użytkowników. Program został napisany w oparciu o zupełnie nowy, sprawnie
+            funkcjonujący silnik, wspierający wiele innowacyjnych technologii, co przekłada się
+            bezpośrednio na niemal 5 krotny wzrost szybkości wykonywania operacji graficznych,
+            poprawę wydajności oraz znacznie mniejsze obciążenie pamięci niż miało to miejsce w
+            poprzednich wersjach. Nowa budowa kodu programu znacząco wpłynęła również na stabilność
+            wykonywanych operacji. Czyni to z programu GstarCAD 8 narzędzie godzące wydajność i dużą
+            szybkość działania z wykonywaniem wielu skomplikowanych operacji na dużych rysunkach, co
+            wyróżnia stabilność jego pracy na tle innych rozwiązań typu CAD. Ten dział poświęcony
+            jest rozpoczęciu pracy z programem GstarCAD 8, wyjaśnia proces instalacji oraz dostarcza
+            podstawowe informacje na temat użytkowania programu.</p>
+        <p class="- topic/p "><image class="- topic/image " href="file:/C:/!%20Monika/studia/GIT/DITA%20project/GstarCAD_Project_Oxygen/images/1.wymagania_sprzetowe.JPG" id="unique_1_Connect_42_image_sbj_jrc_gpb" nd:nd-id="image_sbj_jrc_gpb" placement="inline"/></p>
+        <p class="- topic/p "><i class="+ topic/ph hi-d/i ">[Źródło: gstarcad.pl]</i></p>
+    </body>
+</topic><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="c_instalacja" oid="c_instalacja" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Instalacja</ph></title><prolog class="- topic/prolog "><author class="- topic/author ">Monika Wilczyńska-Mitura</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2021"/>
+            <copyrholder class="- topic/copyrholder "/>
+        </copyright><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2021-03-26"/>
+        </critdates></prolog>
+    <body class="- topic/body ">
+        <p class="- topic/p ">Instalator programu GstarCAD 8 można pobrać bezpośrednio ze strony internetowej <xref class="- topic/xref " format="html" href="http://gstarcad.pl/" scope="external"><?ditaot usertext?>www.gstarcad.pl</xref>.
+            Instalator programu GstarCAD 8 poprowadzi Cię krok, po kroku przez proces instalacji.
+            Program rozróżni automatycznie sposób rejestracji w zależności od tego czy użytkownik
+            skorzysta z klucza sprzętowego czy numeru seryjnego licencji elektronicznej. Poniżej
+            zostały wyszczegulnione kolejno etapy procesu instalacji: </p>
+        <p class="- topic/p ">1.Kliknij dwukrotnie na pobrany plik wykonywalny .exe w celu uruchomienia instalatora
+            programu GstarCAD 8. Kliknij przycisk "<b class="+ topic/ph hi-d/b ">Dalej</b>" aby kontynuować proces instalacji.
+            Patrz Rysunek 1-1.</p>
+        <p class="- topic/p "><image class="- topic/image " href="file:/C:/!%20Monika/studia/GIT/DITA%20project/GstarCAD_Project_Oxygen/images/rys1-1.JPG" id="unique_2_Connect_42_image_wdt_pfc_gpb" nd:nd-id="image_wdt_pfc_gpb" placement="inline">
+                <alt class="- topic/alt ">Rys. 1-1.</alt>
+            </image></p>
+        <p class="- topic/p ">Rys.1-1.</p>
+        <p class="- topic/p ">2. Wyświetlone zostanie okno dialogowe zawierające informacje dotyczące warunków
+            licencji. Po zapoznaniu się z nimi zaznacz opcję "<b class="+ topic/ph hi-d/b ">Akceptuję warunki Umowy
+                licencyjnej</b>" i kliknij przycisk "<b class="+ topic/ph hi-d/b ">Dalej</b>" aby kontynuować. Patrz Rysunek
+            1-2.</p>
+        <p class="- topic/p "><image class="- topic/image " href="file:/C:/!%20Monika/studia/GIT/DITA%20project/GstarCAD_Project_Oxygen/images/rys1-2.JPG" id="unique_2_Connect_42_image_yb2_kgc_gpb" nd:nd-id="image_yb2_kgc_gpb" placement="inline">
+                <alt class="- topic/alt ">Rys. 1-2.</alt>
+            </image></p>
+        <p class="- topic/p ">Rys.1-2.</p>
+        <p class="- topic/p ">3. W następnym oknie instalatora wprowadź swoje dane użytkownika i kliknij przycisk
+                "<b class="+ topic/ph hi-d/b ">Dalej</b>". Patrz Rysunek 1-3.</p>
+        <image class="- topic/image " href="file:/C:/!%20Monika/studia/GIT/DITA%20project/GstarCAD_Project_Oxygen/images/rys1-3.JPG" id="unique_2_Connect_42_image_tld_ngc_gpb" nd:nd-id="image_tld_ngc_gpb" placement="inline">
+            <alt class="- topic/alt ">Rys. 1-3.</alt>
+        </image>
+        <p class="- topic/p ">Rys.1-3.</p>
+        <p class="- topic/p ">4. Określ ścieżkę katalogu, do którego instalator ma zainstalować pliki programu i
+            kliknij przycisk "<b class="+ topic/ph hi-d/b ">Dalej</b>". Patrz Rysunku 1-4.</p>
+        <image class="- topic/image " href="file:/C:/!%20Monika/studia/GIT/DITA%20project/GstarCAD_Project_Oxygen/images/rys1-4.JPG" id="unique_2_Connect_42_image_pvf_4gc_gpb" nd:nd-id="image_pvf_4gc_gpb" placement="inline">
+            <alt class="- topic/alt ">Rys. 1-4.</alt>
+        </image>
+        <p class="- topic/p ">Rys.1-4.</p>
+        <p class="- topic/p ">5. W oknie "<b class="+ topic/ph hi-d/b ">Opcje instalacji</b>" możesz zaznaczyć dodatkową opcję VBA. Następnie
+            kliknij przycisk "<b class="+ topic/ph hi-d/b ">Dalej</b>".</p>
+        <p class="- topic/p ">6. Instalatar jest już gotowy do rozpoczęcia procesu instalacji programu. Jeżeli chcesz
+            sprawdzić lub zmienić którekolwiek z wybranych ustawień kliknij przycisk
+            "<b class="+ topic/ph hi-d/b ">Wstecz</b>". W celu rozpoczęcia instalacji kliknij przycisk "<b class="+ topic/ph hi-d/b ">Instaluj</b>". Patrz
+            Rysunek 1-5.</p>
+        <image class="- topic/image " href="file:/C:/!%20Monika/studia/GIT/DITA%20project/GstarCAD_Project_Oxygen/images/rys1-5.JPG" id="unique_2_Connect_42_image_aqk_pgc_gpb" nd:nd-id="image_aqk_pgc_gpb" placement="inline">
+            <alt class="- topic/alt ">Rys. 1-5.</alt>
+        </image>
+        <p class="- topic/p ">Rys.1-5.</p>
+        <p class="- topic/p ">7. Instalacja programu GstarCAD 8 przebiegła pomyślnie. Kliknij przycisk "<b class="+ topic/ph hi-d/b ">Zakończ</b>"
+            aby zakończyć pracę instalatora. Patrz Rysunek 1-6</p>
+        <p class="- topic/p "><image class="- topic/image " href="file:/C:/!%20Monika/studia/GIT/DITA%20project/GstarCAD_Project_Oxygen/images/rys1-6.JPG" id="unique_2_Connect_42_image_xsg_rgc_gpb" nd:nd-id="image_xsg_rgc_gpb" placement="inline">
+                <alt class="- topic/alt ">Rys. 1-6.</alt>
+            </image></p>
+        <p class="- topic/p ">Rys.1-6.</p>
+        <p class="- topic/p "><i class="+ topic/ph hi-d/i ">[Źródło: gstarcad.pl]</i></p>
+    </body>
+</topic><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="c_pierwsze_kroki" oid="c_pierwsze_kroki" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Pierwsze kroki</ph></title><prolog class="- topic/prolog "><author class="- topic/author ">Monika Wilczyńska-Mitura</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2021"/>
+            <copyrholder class="- topic/copyrholder "/>
+        </copyright><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2021-03-26"/>
+        </critdates></prolog>
+    <body class="- topic/body ">
+        <p class="- topic/p "><xref class="- topic/xref " href="#unique_4" type="topic"><?ditaot gentext?>Interfejs użytkownika</xref></p>
+        <p class="- topic/p "><xref class="- topic/xref " href="#unique_5" type="topic"><?ditaot gentext?>Dostosowanie programu</xref></p>
+    </body>
+<topic class="- topic/topic " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="c_interfejs_uzytkownika" oid="c_interfejs_uzytkownika" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Interfejs użytkownika</ph></title><prolog class="- topic/prolog "><author class="- topic/author ">Monika Wilczyńska-Mitura</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2021"/>
+            <copyrholder class="- topic/copyrholder "/>
+        </copyright><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2021-03-26"/>
+        </critdates></prolog>
+    <body class="- topic/body ">
+        <p class="- topic/p "/>
+        <p class="- topic/p ">Możesz cieszyć się pracą w środowisku programu GstarCAD 8 na kilka różnych sposobów.
+            Użytkownik ma możliwość spersonalizowania interfejsu programu poprzez określenia
+            położenia wyświetlanych elementów takich jak paski narzędziowe, pasek poleceń, swobodne
+            przełączanie się pomiędzy obszarami pracy, zmianę motywy interfejsu i odblokowanie paska
+            stanu. Paski narzędziowe i pasek poleceń mogą być zadokowane lub swobodnie
+            przemieszczane i wyświetlane w dowolnym miejscu ekranu.</p>
+        <p class="- topic/p "><image class="- topic/image " href="file:/C:/!%20Monika/studia/GIT/DITA%20project/GstarCAD_Project_Oxygen/images/interfejs.JPG" id="unique_4_Connect_42_image_vbj_fhc_gpb" nd:nd-id="image_vbj_fhc_gpb" placement="inline">
+                <alt class="- topic/alt ">Rys. 3-1. Interfejs programu</alt>
+            </image></p>
+        <p class="- topic/p ">Rys. 3-1. Interfejs programu.</p>
+        <p class="- topic/p ">1. Pasek szybkiego dostępu: Wyświetla najczęściej używane narzędzia takie jak: Nowy, 15
+            Otwórz, Zapisz, Cofnij, Zapisz jako, Drukuj, Podgląd wydruku i Pomoc. Ponadto można go
+            spersonalizować (poprzez dodanie innych poleceń za pomocą przycisku rozwijalnego) lub
+            wybrać czy menu szybkiego dostępu będzie wyświetla nad czy pod interfejsem
+            wstążkowym.</p>
+        <p class="- topic/p ">2. Przełączanie obszaru roboczego: Pozwala na przełączanie pomiędzy dwoma rodzajami
+            interfejsu (Rysowanie 2D i GstarCAD Klasyczny).</p>
+        <p class="- topic/p ">3. Pasek Menu: Jest używany do wyboru poleceń za pomocą myszy zamiast wprowadzania
+            poleceń z klawiatury. Znajdują się tu następujące zakładki: Plik, Edytuj, Widok, Wstaw,
+            Format, Narzędzia, Rysuj, Wymiar, Modyfikuj, Okno, Pomoc i Express.</p>
+        <p class="- topic/p ">4. Interfejs wstążkowy: Składa się on z kilku paneli, które są uporządkowane zgodnie z
+            przypisanymi im etykietkami. Narzędzia widoczne w każdym z paneli są również dostępne w
+            paskach narzędziowych i oknach dialogowych.</p>
+        <p class="- topic/p ">5. Wygląd: Użytkownik ma możliwość zarządzania zakładkami plików i paskiem
+            powiadomień.</p>
+        <p class="- topic/p ">6. Obszar rysowania: Rysunek wyświetlany jest w oknie rysowania.</p>
+        <p class="- topic/p ">7. Paski narzędziowe: Paski narzędziowe częściowo zawierają przyciski wywołujące
+            polecenia. Aby wyświetlić nazwę danej komendy najedź kursorem myszy na wybrany przycisk
+            polecenia. Standardowy pasek narzędzi, umieszczony na górze obszaru rysowania zawiera
+            najczęściej używane polecenia, a także tak jak w przypadku pakietu Office polecenia
+            Nowy, Otwórz i Zapisz. Program GstarCAD 8 w widoku klasycznym domyślnie wyświetla kilka
+            pasków narzędziowych: -<ul class="- topic/ul " id="unique_4_Connect_42_ul_mk3_rhc_gpb" nd:nd-id="ul_mk3_rhc_gpb">
+                <li class="- topic/li ">Pasek rysowania</li>
+                <li class="- topic/li ">Pasek kontroli rysowania</li>
+                <li class="- topic/li ">Pasek zmian</li>
+                <li class="- topic/li ">Pasek właściwości</li>
+                <li class="- topic/li ">Pasek narzędzi warstwy</li>
+                <li class="- topic/li ">Pasek narzędzi stylów</li>
+                <li class="- topic/li ">Standardowy pasek narzędzi</li>
+            </ul></p>
+        <p class="- topic/p ">8. Układ współrzędnych użytkownika (LUW): Ikona wyznacza orientacje rysunku w dwu
+            wymiarowej przestrzeni.</p>
+        <p class="- topic/p ">9. Zakładki przestrzeni Modelu i przestrzeni Układu: Kliknij na zakładkę aby przełączyć
+            się pomiędzy rysowanym modelem i układem wydruku.</p>
+        <p class="- topic/p ">10. Okno poleceń: Pasek poleceń jest to okno z możliwością zadokowania, w którym
+            wprowadzane są nazwy poleceń za pomocą klawiatury. W oknie tym wyświetlane są również
+            powiadomienia i inny komunikaty zwracane przez program. Okno poleceń można przeciągnąć w
+            dowolne miejsce ekranu. Jeżeli pasek poleceń jest niezadokowany, możesz rozciągnąć jego
+            okno aby otrzymać większą liczbę widocznych linii tekstu. </p>
+        <p class="- topic/p ">11. Pasek stanu: Wyświetla informacje takie jak bieżące współrzędne kursora, opcje Snap,
+            Grid, Ortho, Polar, Osnap, Otrackand i inne ustawienia. Poza wyświetlaniem informacji,
+            pasek stanu pozwala na szybki dostęp do wielu funkcji. Klikając elementy paska stanu
+            można szybko dokonać zmian. Kliknięcie prawym przyciskiem myszy na element paska
+            powoduje wyświetlenie menu skrótów pozwalające na wybranie większej ilości dostępnych
+            opcji. Domyślnie pasek stanu wygląda tak jak na rysunku poniżej: Klikając prawym
+            przyciskiem myszy na pustą przestrzeń paska stanu można wyświetlać lub ukrywać polecenia
+            a nawet zmieniać je w ikony:</p>
+        <p class="- topic/p ">12. Paleta Właściwości: Możesz modyfikować wartości lub właściwości obiektów w każdej z
+            kolumn. Paleta Właściwości pokazuje wszystkie właściwości określonego obiektu. Jeżeli
+            wybierzesz wiele obiektów, Paleta Właściwości pokaże polecenie właściwości zaznaczonych
+            obiektów. Jeżeli żaden obiekt nie zostanie zaznaczony, Paleta Właściwości wyświetli
+            ogólne właściwości bieżącej warstwy, a także właściwości jako informacje Układu
+            współrzędnych użytkownika. Domyślnie podwójne kliknięcie na obiekt otwiera Paletę
+            Właściwości jeżeli paleta jest ukryta. Operacja ta jest niemożliwa gdy obiekt jest
+            blokiem, wzorem kreskowania, tekstem, odnośnikiem zewnętrznym lub wypełnieniem
+            gradientowym.</p>
+        <p class="- topic/p "><i class="+ topic/ph hi-d/i ">[Źródło: gstarcad.pl]</i></p>
+    </body>
+</topic><topic class="- topic/topic " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="c_dostosowanie_programu" oid="c_dostosowanie_programu" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Dostosowanie programu</ph></title><prolog class="- topic/prolog "><author class="- topic/author ">Monika Wilczyńska-Mitura</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2021"/>
+            <copyrholder class="- topic/copyrholder "/>
+        </copyright><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2021-03-26"/>
+        </critdates></prolog>
+    <body class="- topic/body ">
+        <p class="- topic/p ">W programie GstarCAD 8 znajduje się wiele różnych elementów środowiska pracy, które
+            możesz dostosować do własnych potrzeb.</p>
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Ustawienia opcji interfejsu</b></p>
+        <p class="- topic/p ">W oknie dialogowym "Opcje", możesz zmienić wiele ustawień interfejsu i środowiska
+            rysowania.</p>
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Ustawienia modyfikacji interfejs</b></p>
+        <p class="- topic/p ">Automatyczny zapis (w zakładce Otwórz i zapisz): Określa odstępy czasu po jakich rysunek
+            ma być automatycznie zapisywany/ Aby użyć tej opcji, zaznacz Automatyczny zapis w
+            zakładce Otwórz i zapisz oraz wprowadź wartość czasu w minutach.</p>
+        <ul class="- topic/ul " id="unique_5_Connect_42_ul_ijg_3jc_gpb" nd:nd-id="ul_ijg_3jc_gpb">
+            <li class="- topic/li ">Kolory (zakładka Ekran): Pozwala określić kolor tła używanego w Układzie, zakładki
+                Modelu, kolor podpowiedzi i celownika.</li>
+            <li class="- topic/li ">Czcionki (zakładka Ekran): Pozwala na zmianę czcionek używanych w oknie i oknie
+                tekstowym. Ustawienia te nie zmieniają tekstu na rysunku.</li>
+            <li class="- topic/li ">Ścieżka wyszukiwania (zakładka Plik): Określa ścieżkę do wyszukiwania plików
+                pomocniczych rysowania, takich jak czcionki, rysunki, typy linii i wzory
+                kreskowania.</li>
+        </ul>
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Zapisywanie i przywracanie profili</b></p>
+        <p class="- topic/p ">Program GstarCAD 8 pozwala na tworzenie profili dla różnych użytkowników lub projektów
+            oraz dzielenie się nimi poprzez import i eksport plików profili. Domyślnie, bieżące
+            opcje są przechowywane w profilu o nazwie Domyślny. Nazwa bieżącego profilu, a także
+            nazwa bieżącego rysunku, jest wyświetlana w oknie dialogowym "Opcje".</p>
+        <p class="- topic/p ">GstarCAD 8 przechowuje informacje o profilu w rejestrze systemowym i zapisuje je jako
+            plik tekstowy (plik ARG), a także organizuje podstawowe dane i zachowuje zmiany w
+            rejestrze zgodnie z wymaganiami.</p>
+        <p class="- topic/p ">Jeżeli dokonasz zmian w bieżącym profilu podczas trwania sesji programu i chcesz zapisać
+            zmiany w pliku ARG, konieczne jest wyeksportowanie profilu. Gdy wyeksportujesz profil o
+            bieżącej nazwie, program GstarCAD zaktualizuje plik ARG z nowymi ustawieniami. Możesz
+            ponownie zaimportować plik profilu w programie, w celu zaktualizowania ustawień
+            profilu.</p>
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Palety narzędzi</b></p>
+        <p class="- topic/p ">Palety narzędzi znajdują się w kartach wewnątrz okna "Palety narzędzi". Możesz utworzyć
+            narzędzie poprzez przeciągnięcie obiektu na paletę narzędzi. W programie GstarCAD, bloki
+            i odnośniki zewnętrzne (pliki xref) mogą być przeciągnięte na paletę narzędzi. Nowo
+            wstawione narzędzie będzie miało takie same właściwości wewnątrz rysunku. Możesz również
+            utworzyć, usunąć, zmienić nazwę i spersonalizować panele poprzez kliknięcie na nie
+            prawym przyciskiem myszy. Aby otworzyć panele narzędzi użyj skrótu CTRL+3 lub wprowadź
+            polecenie TOOLPALETTES.</p>
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Centrum projektowania</b></p>
+        <p class="- topic/p ">W oknie Centrum projektowania, możesz określić dostęp do rysunków, bloków, stylów tekstu
+            i innych zawartości rysowania:<ul class="- topic/ul " id="unique_5_Connect_42_ul_sn2_rjc_gpb" nd:nd-id="ul_sn2_rjc_gpb">
+                <li class="- topic/li ">Wybierz plik rysunku znajdujący się na komputerze lub dysku sieciowym.</li>
+                <li class="- topic/li ">Zobacz tabele definicji nazwanych obiektów, a następnie wstaw, załącz, skopiuj
+                    lub wstaw definicje do bieżącego rysunku.</li>
+                <li class="- topic/li ">Utwórz skrót do rysunków i folderów, z których często korzystasz.</li>
+                <li class="- topic/li ">Dodaj zawartość taką jak pliki xref czy bloki do rysunku.</li>
+                <li class="- topic/li ">Przeciągaj rysunki i bloki do palety narzędzi aby uzyskać do nich wygodny
+                    dostęp.</li>
+            </ul></p>
+        <p class="- topic/p "><i class="+ topic/ph hi-d/i ">Zakładka folderów</i>: Następujące ikony są wyświetlane w zakładkach: sieć i komputer,
+            dyski komputera, foldery, rysunki i powiązane pliku wsparcia, pliki xref, Układ i
+            nazwane obiekty, załączone bloki, warstwy, typy linii, style tekstu i style wymiaru
+            wewnątrz rysunku.</p>
+        <p class="- topic/p "><i class="+ topic/ph hi-d/i ">Otwieranie rysunków</i>: Bieżąca lista otwartych rysunków. Jeżeli klikniesz na tabele
+            definicji, możesz wczytać zawartość wewnątrz obszaru zawartości.</p>
+        <p class="- topic/p "><i class="+ topic/ph hi-d/i ">Historia</i>: Lista poprzednio otworzonych plików. Jeżeli dwukrotnie klikniesz na plik
+            rysunku na liście, możesz wczytać zawartość wewnątrz obszaru zawartości.</p>
+        <p class="- topic/p "><i class="+ topic/ph hi-d/i ">Ulubione</i>: Jeżeli posiadasz zawartość, do której potrzebujesz szybkiego dostępu,
+            Centrum projektowania pozwala na wyszukiwanie potrzebnej zawartości.Gdy zaznaczysz typ
+            zawartości, kliknij dwukrotnie prawym przyciskiem myszy i dodaj go do Ulubionych. W
+            folderze ulubione zapisywane są skróty do zawartości znajdującej się na dysku lub dysku
+            sieciowym. Oryginalny plik lub folder nie zostaje przeniesiony. Wszystkie stworzone
+            skróty zostają przechowane w folderze Ulubione.</p>
+        <p class="- topic/p "><i class="+ topic/ph hi-d/i ">[Źródło: gstarcad.pl]</i></p>
+    </body>
+</topic></topic><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="c_edycja_rysunku" oid="c_edycja_rysunku" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Edycja rysunku</ph></title><prolog class="- topic/prolog "><author class="- topic/author ">Monika Wilczyńska-Mitura</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2021"/>
+            <copyrholder class="- topic/copyrholder "/>
+        </copyright><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2021-03-26"/>
+        </critdates></prolog>
+    <body class="- topic/body ">
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+                exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+                irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+                pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+                deserunt mollit anim id est laborum.</b></p>
+    </body>
+<topic class="- topic/topic " id="unique_7" topicrefclass="- map/topicref " nd:nd-id="t_tworzenie_rysunku" oid="t_tworzenie_rysunku" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Tworzenie rysunku</ph></title><prolog class="- topic/prolog "><author class="- topic/author ">Monika Wilczyńska-Mitura</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2021"/>
+            <copyrholder class="- topic/copyrholder "/>
+        </copyright><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2021-03-26"/>
+        </critdates></prolog>
+    <body class="- topic/body ">
+        <p class="- topic/p "><u class="+ topic/ph hi-d/u ">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+                exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+                irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+                pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+                deserunt mollit anim id est laborum.</u></p>
+    </body>
+</topic><topic class="- topic/topic " id="unique_8" topicrefclass="- map/topicref " nd:nd-id="t_otwieranie_rysunku" oid="t_otwieranie_rysunku" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Otwieranie rysunku</ph></title><prolog class="- topic/prolog "><author class="- topic/author ">Monika Wilczyńska-Mitura</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2021"/>
+            <copyrholder class="- topic/copyrholder "/>
+        </copyright><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2021-03-26"/>
+        </critdates></prolog>
+    <body class="- topic/body ">
+        <p class="- topic/p "><u class="+ topic/ph hi-d/u ">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+                exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+                irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+                pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+                deserunt mollit anim id est laborum.</u></p>
+    </body>
+</topic><topic class="- topic/topic " id="unique_9" topicrefclass="- map/topicref " nd:nd-id="t_zapis_rysunku" oid="t_zapis_rysunku" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Zapis rysunku</ph></title><prolog class="- topic/prolog "><author class="- topic/author ">Monika Wilczyńska-Mitura</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2021"/>
+            <copyrholder class="- topic/copyrholder "/>
+        </copyright><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2021-03-26"/>
+        </critdates></prolog>
+    <body class="- topic/body ">
+        <p class="- topic/p "><u class="+ topic/ph hi-d/u ">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+                exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+                irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+                pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+                deserunt mollit anim id est laborum.</u></p>
+    </body>
+</topic><topic class="- topic/topic " id="unique_10" topicrefclass="- map/topicref " nd:nd-id="t_przywracanie_rysunku" oid="t_przywracanie_rysunku" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Przywracanie rysunku</ph></title><prolog class="- topic/prolog "><author class="- topic/author ">Monika Wilczyńska-Mitura</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2021"/>
+            <copyrholder class="- topic/copyrholder "/>
+        </copyright><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2021-03-26"/>
+        </critdates></prolog>
+    <body class="- topic/body ">
+        <p class="- topic/p "><u class="+ topic/ph hi-d/u ">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+                exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+                irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+                pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+                deserunt mollit anim id est laborum.</u></p>
+    </body>
+</topic></topic></map>
